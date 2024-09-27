@@ -5,4 +5,5 @@
   (lib (name "utsvt-microcontrollers")(type "Legacy")(uri "${KIPRJMOD}/../UTSVT-KiCadLibraries/utsvt-microcontrollers.lib")(options "")(descr ""))
   (lib (name "utsvt-misc")(type "Legacy")(uri "${KIPRJMOD}/../UTSVT-KiCadLibraries/utsvt-misc.lib")(options "")(descr ""))
   (lib (name "utsvt-power-regulators")(type "Legacy")(uri "${KIPRJMOD}/../UTSVT-KiCadLibraries/utsvt-power-regulators.lib")(options "")(descr ""))
+  (lib (name "PowerDistributionUnitLib")(type "KiCad")(uri "${KIPRJMOD}/lib/PowerDistributionUnitLib.kicad_sym")(options "")(descr ""))
 )
