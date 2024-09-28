@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 40.64 20.32)
-		(size 31.75 24.13)
+		(at 29.21 25.4)
+		(size 25.4 20.32)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -18,7 +18,7 @@
 		)
 		(uuid "7cde5962-ceac-4f4f-8867-d47024cc92ff")
 		(property "Sheetname" "eFuse"
-			(at 40.64 19.6084 0)
+			(at 29.21 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,7 +27,7 @@
 			)
 		)
 		(property "Sheetfile" "eFuse.kicad_sch"
-			(at 40.64 45.0346 0)
+			(at 29.21 46.3046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(pin "GND" input
-			(at 40.64 38.1 180)
+			(at 50.8 45.72 270)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44,6 +44,36 @@
 				(justify left)
 			)
 			(uuid "7e26b5dd-e03b-4d31-a8fa-a3561c82b05d")
+		)
+		(pin "OUT" input
+			(at 54.61 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "99aa5e77-5251-429a-a090-27469f7baada")
+		)
+		(pin "IN" input
+			(at 29.21 30.48 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "86cdde3d-f2eb-4138-af52-1426f71e6b0e")
+		)
+		(pin "PG" input
+			(at 54.61 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2a1812fc-b81c-40a7-a8fd-825e285089dd")
 		)
 		(instances
 			(project "PowerDistributionUnit"
