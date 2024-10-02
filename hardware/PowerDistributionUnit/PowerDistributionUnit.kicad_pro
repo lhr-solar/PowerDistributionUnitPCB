@@ -497,8 +497,12 @@
       "/eFuse/OUT": "HIGH POWER",
       "Net-(D2-A)": "HIGH POWER",
       "Net-(D2-K)": "HIGH POWER",
+      "Net-(Q1-Pad1)": "HIGH POWER",
+      "Net-(Q1-Pad2)": "HIGH POWER",
+      "Net-(Q1-Pad3)": "HIGH POWER",
       "Net-(Q2-D)": "HIGH POWER",
       "Net-(Q2-S)": "HIGH POWER",
+      "Net-(U1-OUT-Pad17)": "HIGH POWER",
       "unconnected-(Q2-S-Pad3)": "HIGH POWER"
     },
     "netclass_patterns": [
