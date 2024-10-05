@@ -6,20 +6,19 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 77.47 44.45)
-		(size 20.32 25.4)
+		(at 17.78 17.78)
+		(size 22.86 22.86)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
-			(color 0 0 0 1)
 		)
 		(fill
-			(color 223 223 223 1.0000)
+			(color 255 229 191 1.0000)
 		)
-		(uuid "7cde5962-ceac-4f4f-8867-d47024cc92ff")
-		(property "Sheetname" "eFuse"
-			(at 77.47 43.7384 0)
+		(uuid "afc26468-877c-4928-9f2e-9c48c52cd2d4")
+		(property "Sheetname" "eFuses"
+			(at 17.78 17.0684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,8 +26,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "eFuse.kicad_sch"
-			(at 77.47 70.4346 0)
+		(property "Sheetfile" "eFuses.kicad_sch"
+			(at 17.78 41.2246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,99 +36,39 @@
 			)
 		)
 		(pin "GND" passive
-			(at 77.47 67.31 180)
+			(at 17.78 36.83 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7e26b5dd-e03b-4d31-a8fa-a3561c82b05d")
+			(uuid "c75fac88-79d7-4974-b8aa-91540d061ced")
 		)
-		(pin "OUT" output
-			(at 97.79 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "99aa5e77-5251-429a-a090-27469f7baada")
-		)
-		(pin "IN" input
-			(at 77.47 46.99 180)
+		(pin "SCL" input
+			(at 17.78 22.86 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "86cdde3d-f2eb-4138-af52-1426f71e6b0e")
+			(uuid "aad00a03-e78e-421d-8422-95c038260667")
 		)
-		(pin "PG" output
-			(at 97.79 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "2a1812fc-b81c-40a7-a8fd-825e285089dd")
-		)
-		(pin "EN" input
-			(at 77.47 49.53 180)
+		(pin "SDA" input
+			(at 17.78 25.4 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c0e5b5dd-7244-4ef5-920f-56718748060e")
-		)
-		(pin "R_{ILIM}_SCL" input
-			(at 77.47 54.61 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "5ec9bf0f-cc66-4152-87d6-2a2b24d2ec46")
-		)
-		(pin "R_{ILIM}_SDA" input
-			(at 77.47 57.15 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "842a9a03-cb21-4209-b624-90d2b28b1584")
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 77.47 62.23 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "89253c96-2d12-4786-bb6d-622a5122a560")
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 77.47 59.69 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "cf295740-7158-4fee-a038-56730485d187")
+			(uuid "18a11f3a-481b-406b-8afb-3beb34672e61")
 		)
 		(instances
 			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(page "2")
+					(page "8")
 				)
 			)
 		)

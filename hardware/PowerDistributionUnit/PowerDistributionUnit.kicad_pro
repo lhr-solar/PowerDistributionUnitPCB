@@ -493,15 +493,46 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "+12V": "HIGH POWER",
+      "+5V": "HIGH POWER",
       "/eFuse/IN": "HIGH POWER",
       "/eFuse/OUT": "HIGH POWER",
+      "Net-(D11-K)": "HIGH POWER",
+      "Net-(D12-K)": "HIGH POWER",
+      "Net-(D14-K)": "HIGH POWER",
+      "Net-(D16-K)": "HIGH POWER",
+      "Net-(D18-K)": "HIGH POWER",
       "Net-(D2-A)": "HIGH POWER",
       "Net-(D2-K)": "HIGH POWER",
+      "Net-(D20-K)": "HIGH POWER",
+      "Net-(D22-K)": "HIGH POWER",
+      "Net-(D24-K)": "HIGH POWER",
+      "Net-(D26-K)": "HIGH POWER",
+      "Net-(D28-K)": "HIGH POWER",
+      "Net-(D3-K)": "HIGH POWER",
+      "Net-(D30-K)": "HIGH POWER",
+      "Net-(D5-K)": "HIGH POWER",
+      "Net-(D7-K)": "HIGH POWER",
+      "Net-(D9-K)": "HIGH POWER",
       "Net-(Q1-Pad1)": "HIGH POWER",
       "Net-(Q1-Pad2)": "HIGH POWER",
       "Net-(Q1-Pad3)": "HIGH POWER",
+      "Net-(Q10-Pad1)": "HIGH POWER",
+      "Net-(Q11-Pad1)": "HIGH POWER",
+      "Net-(Q12-Pad1)": "HIGH POWER",
+      "Net-(Q13-Pad1)": "HIGH POWER",
+      "Net-(Q14-Pad1)": "HIGH POWER",
+      "Net-(Q15-Pad1)": "HIGH POWER",
       "Net-(Q2-D)": "HIGH POWER",
+      "Net-(Q2-Pad1)": "HIGH POWER",
       "Net-(Q2-S)": "HIGH POWER",
+      "Net-(Q3-Pad1)": "HIGH POWER",
+      "Net-(Q4-Pad1)": "HIGH POWER",
+      "Net-(Q5-Pad1)": "HIGH POWER",
+      "Net-(Q6-Pad1)": "HIGH POWER",
+      "Net-(Q7-Pad1)": "HIGH POWER",
+      "Net-(Q8-Pad1)": "HIGH POWER",
+      "Net-(Q9-Pad1)": "HIGH POWER",
       "Net-(U1-OUT-Pad17)": "HIGH POWER",
       "unconnected-(Q2-S-Pad3)": "HIGH POWER"
     },
@@ -631,8 +662,68 @@
       "Root"
     ],
     [
-      "7cde5962-ceac-4f4f-8867-d47024cc92ff",
-      "eFuse"
+      "215c0e10-1c35-49de-82cd-ab2f3dd12a9e",
+      "eFuse0"
+    ],
+    [
+      "62a8656a-3368-4168-badf-be5ed339c086",
+      "eFuse1"
+    ],
+    [
+      "12f77c20-05fa-4d9c-aec3-c07e18b6d94a",
+      "eFuse2"
+    ],
+    [
+      "8c872111-9b56-46eb-86fe-f81e0a1b0aea",
+      "eFuse3"
+    ],
+    [
+      "6be26867-cff6-432f-8722-bbdff7bef258",
+      "eFuse4"
+    ],
+    [
+      "81b4a052-923b-40a7-96aa-a0588ccb881f",
+      "eFuse5"
+    ],
+    [
+      "afc26468-877c-4928-9f2e-9c48c52cd2d4",
+      "eFuses"
+    ],
+    [
+      "ac9891f9-3fa8-47a7-ac15-e6baf4318520",
+      "eFuse6"
+    ],
+    [
+      "4fe7e578-4c31-4362-b2ce-382c78313084",
+      "eFuse7"
+    ],
+    [
+      "cf101698-6453-4dc2-945c-b3975bb3daa4",
+      "eFuse8"
+    ],
+    [
+      "45080e39-d0e0-46fa-9a7d-dc213e062091",
+      "eFuse9"
+    ],
+    [
+      "b137fa60-d290-4b94-9988-a3f6fdf61279",
+      "eFuse10"
+    ],
+    [
+      "1f358fa3-a889-4029-906a-d24c77ca2d2c",
+      "eFuse11"
+    ],
+    [
+      "f7e10137-69e0-480a-8df5-8d0dccdcc2d2",
+      "eFuse12"
+    ],
+    [
+      "f45b2dad-2c26-41bf-871e-7a4a557a3789",
+      "eFuse13"
+    ],
+    [
+      "ee1e7bb5-535f-47d5-bf1b-6e8da704ac91",
+      "eFuseCAN"
     ]
   ],
   "text_variables": {}
