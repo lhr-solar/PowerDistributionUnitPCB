@@ -717,7 +717,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm"
 				(at 0 -1.27 0)
 				(effects
 					(font
@@ -726,7 +726,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads7953.pdf?ts=1728140483665&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS7953%252Fpart-details%252FADS7953SBDBT"
+			(property "Datasheet" "${KIPRJMOD}/lib/docs/ads7953.pdf"
 				(at 0 -1.27 0)
 				(effects
 					(font
@@ -1471,7 +1471,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "${KIPRJMOD}/lib/docs/MCP23017-Data-Sheet-DS20001952-1.pdf"
 				(at -7.112 23.876 0)
 				(effects
 					(font
@@ -2036,7 +2036,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "${KIPRJMOD}/lib/docs/ref4132.pdf"
 				(at 0 -1.27 0)
 				(effects
 					(font
@@ -5856,7 +5856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/lib/docs/ref4132.pdf"
 			(at 73.66 35.56 0)
 			(effects
 				(font
@@ -6133,7 +6133,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm"
 			(at 111.76 80.01 0)
 			(effects
 				(font
@@ -6142,7 +6142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads7953.pdf?ts=1728140483665&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS7953%252Fpart-details%252FADS7953SBDBT"
+		(property "Datasheet" "${KIPRJMOD}/lib/docs/ads7953.pdf"
 			(at 111.76 80.01 0)
 			(effects
 				(font
@@ -6387,7 +6387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/lib/docs/MCP23017-Data-Sheet-DS20001952-1.pdf"
 			(at 211.582 61.214 0)
 			(effects
 				(font

@@ -1120,7 +1120,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_SO:MSOP-10_3x3mm_P0.5mm"
 				(at 15.24 -16.51 0)
 				(effects
 					(font
@@ -1129,7 +1129,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "${KIPRJMOD}/lib/docs/AD5258.pdf"
 				(at 15.24 -16.51 0)
 				(effects
 					(font
@@ -1422,7 +1422,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_SON:VSONP-8-1EP_5x6_P1.27mm"
 				(at 1.27 0 0)
 				(effects
 					(font
@@ -1431,7 +1431,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "${KIPRJMOD}/lib/docs/csd18511q5a.pdf"
 				(at 1.27 0 0)
 				(effects
 					(font
@@ -1851,7 +1851,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "${KIPRJMOD}/lib/docs/tps25983.pdf"
 				(at -7.62 17.78 0)
 				(effects
 					(font
@@ -7727,7 +7727,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:MSOP-10_3x3mm_P0.5mm"
 			(at 73.66 140.97 0)
 			(effects
 				(font
@@ -7736,7 +7736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/lib/docs/AD5258.pdf"
 			(at 73.66 140.97 0)
 			(effects
 				(font
@@ -7875,7 +7875,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:VSONP-8-1EP_5x6_P1.27mm"
 			(at 128.27 39.37 0)
 			(effects
 				(font
@@ -7884,7 +7884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/lib/docs/csd18511q5a.pdf"
 			(at 128.27 39.37 0)
 			(effects
 				(font
@@ -8529,7 +8529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/lib/docs/tps25983.pdf"
 			(at 80.01 35.56 0)
 			(effects
 				(font
