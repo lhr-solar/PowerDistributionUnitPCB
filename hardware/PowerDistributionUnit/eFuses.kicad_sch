@@ -6573,7 +6573,7 @@
 		)
 		(uuid "7e769d20-a6fc-474c-8c5f-a1773cac96da")
 	)
-	(label "OUT.CAN"
+	(label "OUT.CAN+"
 		(at 240.03 130.81 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7574,7 +7574,7 @@
 		)
 		(uuid "f8c0b59b-4972-49fb-88e8-55521154ae92")
 	)
-	(label "OUT.CAN"
+	(label "OUT.CAN+"
 		(at 90.17 187.96 0)
 		(fields_autoplaced yes)
 		(effects

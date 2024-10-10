@@ -2377,12 +2377,6 @@
 		(uuid "2bdabf74-ea28-4186-847a-767109578de9")
 	)
 	(junction
-		(at 30.48 34.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c1f0822-32c1-4679-a34c-9f416014e5a0")
-	)
-	(junction
 		(at 83.82 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2405,6 +2399,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44262e6e-ebb5-4eff-9aa2-d1ce8c84ccef")
+	)
+	(junction
+		(at 30.48 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50a5d0fe-2bab-49e1-aa39-85629e90a128")
 	)
 	(junction
 		(at 88.9 81.28)
@@ -2602,6 +2602,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 34.29) (xy 40.64 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "103977f2-8544-43eb-913e-2f815635b3bc")
+	)
+	(wire
+		(pts
 			(xy 52.07 34.29) (xy 68.58 34.29)
 		)
 		(stroke
@@ -2609,6 +2619,16 @@
 			(type default)
 		)
 		(uuid "11dda02b-fbc5-4e5b-8500-eed12c7732e3")
+	)
+	(wire
+		(pts
+			(xy 25.4 34.29) (xy 30.48 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13630d9c-0687-47b9-8deb-479b138c3dd2")
 	)
 	(wire
 		(pts
@@ -2829,16 +2849,6 @@
 			(type default)
 		)
 		(uuid "343f9e86-596b-4562-9bda-bd4031452e6e")
-	)
-	(wire
-		(pts
-			(xy 30.48 34.29) (xy 30.48 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "361ba966-239a-4ed4-8aab-d18efb82f2f1")
 	)
 	(wire
 		(pts
@@ -3382,13 +3392,13 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 34.29) (xy 40.64 34.29)
+			(xy 30.48 34.29) (xy 30.48 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9cb90047-c80d-4911-9a56-0713e20b3ef7")
+		(uuid "9b33418e-b6e4-4cab-b098-a202b1a2b395")
 	)
 	(wire
 		(pts
@@ -3409,16 +3419,6 @@
 			(type default)
 		)
 		(uuid "9e4150f0-c230-4892-8fac-8f46f5ecbdce")
-	)
-	(wire
-		(pts
-			(xy 25.4 34.29) (xy 30.48 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a05ed211-fed0-4fb4-ad98-c082ce831b34")
 	)
 	(wire
 		(pts
@@ -3742,7 +3742,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 34.29) (xy 181.61 34.29)
+			(xy 198.12 34.29) (xy 181.61 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3964,7 +3964,7 @@
 	)
 	(rectangle
 		(start 17.78 20.32)
-		(end 194.31 91.44)
+		(end 205.74 91.44)
 		(stroke
 			(width 0)
 			(type dash)
@@ -5054,7 +5054,7 @@
 	)
 	(text "UVLO functionality of eFuse\nnot used to be able to use \nEN as an ON/OFF control. "
 		(exclude_from_sim no)
-		(at 161.29 84.836 0)
+		(at 172.974 84.836 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5623,7 +5623,7 @@
 	)
 	(hierarchical_label "OUT"
 		(shape output)
-		(at 185.42 34.29 0)
+		(at 198.12 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5748,7 +5748,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 30.48 34.29 0)
+		(at 105.41 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5757,9 +5757,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "4c8a3414-19fb-4872-a41f-9fc891e4aadb")
-		(property "Netclass" "HIGH POWER"
-			(at 31.1785 31.75 0)
+		(uuid "648e7256-13ee-4aa9-a8cd-4b188341bccb")
+		(property "Netclass" "HIGH PWR"
+			(at 106.1085 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5772,7 +5772,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 105.41 34.29 0)
+		(at 186.69 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5781,9 +5781,33 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "648e7256-13ee-4aa9-a8cd-4b188341bccb")
-		(property "Netclass" "HIGH POWER"
-			(at 106.1085 31.75 0)
+		(uuid "75841603-31bc-44e6-96d4-a1c8a6db64c8")
+		(property "Netclass" "HIGH PWR"
+			(at 187.3885 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 40.64 34.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "d6d4f0d8-5f12-445c-9c07-0a2d3eee5f50")
+		(property "Netclass" "HIGH PWR"
+			(at 41.3385 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5806,7 +5830,7 @@
 			(justify left bottom)
 		)
 		(uuid "f613ccb7-8c1d-4dd0-ae80-07c82ee0d10d")
-		(property "Netclass" "HIGH POWER"
+		(property "Netclass" "HIGH PWR"
 			(at 136.5885 31.75 0)
 			(effects
 				(font
