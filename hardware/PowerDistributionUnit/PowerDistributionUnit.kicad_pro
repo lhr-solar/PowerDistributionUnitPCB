@@ -512,6 +512,7 @@
     "netclass_assignments": {
       "+12V": "HIGH POWER",
       "+5V": "HIGH POWER",
+      "/Monitoring/3.3V": "AUX PWR",
       "/Monitoring/IN": "HIGH POWER",
       "/Monitoring/IN_CAN": "HIGH POWER",
       "/Monitoring/V_{IN}": "HIGH POWER",
