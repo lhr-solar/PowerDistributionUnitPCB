@@ -2750,27 +2750,27 @@
 			)
 		)
 	)
-	(symbol "SPBW06F"
+	(symbol "SPBW06F-xx"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
-			(at -7.366 6.096 0)
+		(property "Reference" "PS"
+			(at -6.604 6.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SPBW06"
-			(at 4.572 6.096 0)
+		(property "Value" "SPBW06F-xx"
+			(at 2.54 6.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "PowerDistributionUnitLib:SPBW06"
+		(property "Footprint" "PowerDistributionUnitLib:SPBW06F-xx"
 			(at 0 -1.27 0)
 			(effects
 				(font
@@ -2797,7 +2797,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "SPBW06F_1_1"
+		(symbol "SPBW06F-xx_1_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -7.62)

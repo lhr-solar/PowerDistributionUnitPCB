@@ -5122,6 +5122,17 @@
 		)
 		(uuid "64ede671-e729-43d7-9d1e-3f3b252228ce")
 	)
+	(text "eFuse Voltage Rating:\n2.7-26 V"
+		(exclude_from_sim no)
+		(at 21.844 28.956 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "806416ae-1901-466a-8ebd-484e47285074")
+	)
 	(text "Current Monitoring"
 		(exclude_from_sim no)
 		(at 208.026 103.124 0)
