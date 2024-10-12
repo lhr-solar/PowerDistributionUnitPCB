@@ -514,6 +514,7 @@
       "+5V": "HIGH POWER",
       "/IN": "HIGH PWR",
       "/IN_CAN": "HIGH PWR",
+      "/Monitoring/+VBD": "AUX PWR",
       "/Monitoring/3.3V": "AUX PWR",
       "/Monitoring/IN": "HIGH POWER",
       "/Monitoring/IN_CAN": "HIGH POWER",

@@ -5041,17 +5041,6 @@
 		)
 		(uuid "d7e474e5-c6fe-4870-bd58-e48219bb4373")
 	)
-	(text "TODO: Redo for 2.5V!"
-		(exclude_from_sim no)
-		(at 259.842 117.094 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 0 0 1)
-			)
-		)
-		(uuid "19980f43-f44e-4fa4-8517-f6baea75c3dd")
-	)
 	(text "UVLO functionality of eFuse\nnot used to be able to use \nEN as an ON/OFF control. "
 		(exclude_from_sim no)
 		(at 172.974 84.836 0)
@@ -8870,7 +8859,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "732"
+		(property "Value" "549"
 			(at 224.79 118.1099 0)
 			(effects
 				(font

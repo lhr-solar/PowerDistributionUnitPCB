@@ -2388,6 +2388,17 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 71.12) (xy 158.75 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "5c5bd2cc-e538-4174-ba26-f9fac18230ee")
+	)
+	(wire
+		(pts
 			(xy 240.03 63.5) (xy 241.3 63.5)
 		)
 		(stroke
@@ -3529,13 +3540,13 @@
 		(uuid "6d2cd437-8b1a-4efb-810c-c8eb9fbd252f")
 	)
 	(label "OUT.CAN-"
-		(at 135.89 71.12 180)
+		(at 133.35 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
-				(size 1 1)
+				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "6f266328-aed5-4f33-a6b7-fae15cff4e84")
 	)
@@ -5989,7 +6000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 25.4 176.53 0)
 			(effects
 				(font
