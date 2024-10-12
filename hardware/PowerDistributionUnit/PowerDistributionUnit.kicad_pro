@@ -511,6 +511,7 @@
     "net_colors": null,
     "netclass_assignments": {
       "+12V": "HIGH POWER",
+      "+3.3V": "AUX PWR",
       "+5V": "HIGH POWER",
       "/IN": "HIGH PWR",
       "/IN_CAN": "HIGH PWR",
