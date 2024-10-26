@@ -584,6 +584,7 @@
       "Net-(D3-K)": "HIGH PWR",
       "Net-(D30-K)": "HIGH PWR",
       "Net-(D5-K)": "HIGH PWR",
+      "Net-(D51-K)": "HIGH PWR",
       "Net-(D7-K)": "HIGH PWR",
       "Net-(D9-K)": "HIGH PWR",
       "Net-(Q1-Pad1)": "HIGH PWR",
@@ -595,6 +596,7 @@
       "Net-(Q13-Pad1)": "HIGH PWR",
       "Net-(Q14-Pad1)": "HIGH PWR",
       "Net-(Q15-Pad1)": "HIGH PWR",
+      "Net-(Q16-Pad1)": "HIGH PWR",
       "Net-(Q2-D)": "HIGH POWER",
       "Net-(Q2-Pad1)": "HIGH PWR",
       "Net-(Q2-S)": "HIGH POWER",
@@ -732,74 +734,6 @@
     [
       "93fa4ef0-f02c-4535-aca9-c62461ff58dd",
       "Root"
-    ],
-    [
-      "215c0e10-1c35-49de-82cd-ab2f3dd12a9e",
-      "eFuse0"
-    ],
-    [
-      "62a8656a-3368-4168-badf-be5ed339c086",
-      "eFuse1"
-    ],
-    [
-      "12f77c20-05fa-4d9c-aec3-c07e18b6d94a",
-      "eFuse2"
-    ],
-    [
-      "8c872111-9b56-46eb-86fe-f81e0a1b0aea",
-      "eFuse3"
-    ],
-    [
-      "6be26867-cff6-432f-8722-bbdff7bef258",
-      "eFuse4"
-    ],
-    [
-      "81b4a052-923b-40a7-96aa-a0588ccb881f",
-      "eFuse5"
-    ],
-    [
-      "afc26468-877c-4928-9f2e-9c48c52cd2d4",
-      "eFuses"
-    ],
-    [
-      "ac9891f9-3fa8-47a7-ac15-e6baf4318520",
-      "eFuse6"
-    ],
-    [
-      "4fe7e578-4c31-4362-b2ce-382c78313084",
-      "eFuse7"
-    ],
-    [
-      "cf101698-6453-4dc2-945c-b3975bb3daa4",
-      "eFuse8"
-    ],
-    [
-      "45080e39-d0e0-46fa-9a7d-dc213e062091",
-      "eFuse9"
-    ],
-    [
-      "b137fa60-d290-4b94-9988-a3f6fdf61279",
-      "eFuse10"
-    ],
-    [
-      "1f358fa3-a889-4029-906a-d24c77ca2d2c",
-      "eFuse11"
-    ],
-    [
-      "f7e10137-69e0-480a-8df5-8d0dccdcc2d2",
-      "eFuse12"
-    ],
-    [
-      "f45b2dad-2c26-41bf-871e-7a4a557a3789",
-      "eFuse13"
-    ],
-    [
-      "ee1e7bb5-535f-47d5-bf1b-6e8da704ac91",
-      "eFuseCAN"
-    ],
-    [
-      "dcdf2355-8096-401f-9ab2-9b38f3428e4c",
-      "Monitoring"
     ]
   ],
   "text_variables": {}
