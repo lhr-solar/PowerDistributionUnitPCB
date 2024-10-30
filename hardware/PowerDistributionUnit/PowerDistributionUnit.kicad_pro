@@ -800,6 +800,10 @@
     [
       "dcdf2355-8096-401f-9ab2-9b38f3428e4c",
       "Monitoring"
+    ],
+    [
+      "2a873162-e338-45b7-9ca3-38caea89bc21",
+      "Indicators"
     ]
   ],
   "text_variables": {}
