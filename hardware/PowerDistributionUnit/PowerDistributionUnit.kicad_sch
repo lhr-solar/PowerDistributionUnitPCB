@@ -107,7 +107,7 @@
 				)
 			)
 		)
-		(symbol "Connector_Generic:Conn_01x02"
+		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -121,8 +121,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x02"
-				(at 0 -5.08 0)
+			(property "Value" "Conn_01x01"
+				(at 0 -2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -147,7 +147,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -174,18 +174,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x02_1_1"
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Conn_01x01_1_1"
 				(rectangle
 					(start -1.27 0.127)
 					(end 0 -0.127)
@@ -199,7 +188,7 @@
 				)
 				(rectangle
 					(start -1.27 1.27)
-					(end 1.27 -3.81)
+					(end 1.27 -1.27)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -219,24 +208,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3724,16 +3695,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 36.83) (xy 31.75 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47ade0d5-f8d4-4a6c-835b-045f17c4c5f7")
-	)
-	(wire
-		(pts
 			(xy 68.58 63.5) (xy 81.28 63.5)
 		)
 		(stroke
@@ -3834,23 +3795,13 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 34.29) (xy 217.17 34.29)
+			(xy 220.98 34.29) (xy 217.17 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4f67542d-933e-497a-98c3-eebb2423662f")
-	)
-	(wire
-		(pts
-			(xy 34.29 39.37) (xy 34.29 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "510a4bf5-3d10-4e8f-b527-cb7a3c2aa065")
 	)
 	(wire
 		(pts
@@ -3991,16 +3942,6 @@
 			(type default)
 		)
 		(uuid "640ce841-c28b-4da3-b443-6607b7644a55")
-	)
-	(wire
-		(pts
-			(xy 219.71 39.37) (xy 219.71 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6430057f-384e-4057-a148-c61bf48e6671")
 	)
 	(wire
 		(pts
@@ -4644,6 +4585,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 46.99) (xy 220.98 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4bae5b3-2d95-40f7-913b-4b3ac7be9589")
+	)
+	(wire
+		(pts
 			(xy 151.13 36.83) (xy 152.4 36.83)
 		)
 		(stroke
@@ -4671,6 +4622,16 @@
 			(type default)
 		)
 		(uuid "d5c37574-cf93-49e1-b491-bf2eec583852")
+	)
+	(wire
+		(pts
+			(xy 33.02 46.99) (xy 31.75 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d77fd4f3-8353-42e4-b216-e1f5abd43c45")
 	)
 	(wire
 		(pts
@@ -4904,7 +4865,7 @@
 	)
 	(rectangle
 		(start 168.91 93.98)
-		(end 203.2 152.4)
+		(end 276.86 152.4)
 		(stroke
 			(width 0)
 			(type default)
@@ -6077,7 +6038,7 @@
 		)
 		(uuid "ea5e3765-5305-4417-9d77-b8cf4e5bd595")
 	)
-	(text "To Do: LED"
+	(text "To Do: LED?"
 		(exclude_from_sim no)
 		(at 149.098 62.23 0)
 		(effects
@@ -6087,6 +6048,17 @@
 			)
 		)
 		(uuid "05cb9abc-d936-470d-8ffb-fafeb9be10a6")
+	)
+	(text "To Do: Nucleo?"
+		(exclude_from_sim no)
+		(at 143.002 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "0c6da4c6-dd2b-4f23-8e0b-2c500f3c53b2")
 	)
 	(text "eFuse Voltage Rating:\n2.7-26 V"
 		(exclude_from_sim no)
@@ -6108,6 +6080,17 @@
 			)
 		)
 		(uuid "238790e1-7b19-4dce-b740-dda4a34b4750")
+	)
+	(text "To Do: Find DC-DC converter?"
+		(exclude_from_sim no)
+		(at 261.874 81.026 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "40c86c21-0ff9-4dd3-a8ee-a6b538a20ff6")
 	)
 	(text "Enable"
 		(exclude_from_sim no)
@@ -6175,7 +6158,7 @@
 	)
 	(text "To Do: Connect to Nucleo?"
 		(exclude_from_sim no)
-		(at 219.71 96.266 0)
+		(at 218.694 98.806 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7681,6 +7664,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 226.06 45.72 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3088aa2d-2512-41c9-ab58-6d412360b197")
+		(property "Reference" "J4"
+			(at 226.06 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "973582100"
+			(at 226.06 42.926 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PowerDistributionUnitLib:973582100"
+			(at 226.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 226.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "843c0d0b-21e6-4929-89a5-ac69017626e0")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 144.78 119.38 90)
 		(unit 1)
@@ -9089,74 +9137,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 26.67 34.29 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e11cc28-2594-4887-a5be-9ee102f5574d")
-		(property "Reference" "J48"
-			(at 26.67 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 26.67 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.67 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 26.67 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 26.67 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "24fe434b-d79e-4a5a-8825-8bf4bbeed1cd")
-		)
-		(pin "2"
-			(uuid "6e88ada8-104c-4489-b6ea-bdfdcb924789")
-		)
-		(instances
-			(project "PowerDistributionUnit"
-				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "J48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Zener")
 		(at 62.23 40.64 270)
 		(unit 1)
@@ -9900,7 +9880,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 219.71 39.37 0)
+		(at 219.71 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9909,7 +9889,7 @@
 		(fields_autoplaced yes)
 		(uuid "b580e266-862b-4eac-85fe-3cf8f499e54d")
 		(property "Reference" "#PWR0124"
-			(at 219.71 45.72 0)
+			(at 219.71 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9918,7 +9898,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 219.71 44.45 0)
+			(at 219.71 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9926,7 +9906,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 219.71 39.37 0)
+			(at 219.71 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9935,7 +9915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.71 39.37 0)
+			(at 219.71 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9944,7 +9924,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 219.71 39.37 0)
+			(at 219.71 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10331,35 +10311,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 224.79 34.29 0)
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 26.67 34.29 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d310e651-855f-46b2-8b0f-e09b3e6fb773")
-		(property "Reference" "J49"
-			(at 227.33 34.2899 0)
+		(uuid "d0a8c9c1-c71d-4fd6-8b1e-30e2307a0547")
+		(property "Reference" "J1"
+			(at 26.67 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02"
-			(at 227.33 36.8299 0)
+		(property "Value" "973582101"
+			(at 26.67 31.496 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.8 0.8)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 224.79 34.29 0)
+		(property "Footprint" "PowerDistributionUnitLib:973582101"
+			(at 26.67 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10368,7 +10345,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 34.29 0)
+			(at 26.67 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10376,8 +10353,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 224.79 34.29 0)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 26.67 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10386,15 +10363,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d8079d7f-2875-40fb-b65d-1244fc9b3628")
-		)
-		(pin "2"
-			(uuid "48621005-2b4a-4372-9e84-533566cbe297")
+			(uuid "419c0ebe-2840-4942-9f60-39b80fa5f071")
 		)
 		(instances
-			(project "PowerDistributionUnit"
+			(project ""
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "J49")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -10465,6 +10439,70 @@
 			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "R50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 26.67 45.72 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d89bad83-3ff1-4d57-8c8c-b578bfa5300d")
+		(property "Reference" "J2"
+			(at 26.67 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "973582100"
+			(at 26.67 42.926 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PowerDistributionUnitLib:973582100"
+			(at 26.67 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 26.67 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 26.67 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "de4ade0c-549b-4378-9b53-7642ec210735")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -10883,6 +10921,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 226.06 34.29 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e32c6e9a-53b5-4251-b096-a1aa413e612d")
+		(property "Reference" "J3"
+			(at 226.06 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "973582101"
+			(at 226.06 31.496 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PowerDistributionUnitLib:973582101"
+			(at 226.06 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 226.06 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6c179bf-2064-47d1-b32a-6e67db0c8b8c")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 168.91 46.99 0)
 		(unit 1)
@@ -11169,7 +11272,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 34.29 39.37 0)
+		(at 33.02 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11178,7 +11281,7 @@
 		(fields_autoplaced yes)
 		(uuid "e974b3c5-aba3-457a-9b17-c89f30200511")
 		(property "Reference" "#PWR062"
-			(at 34.29 45.72 0)
+			(at 33.02 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11187,7 +11290,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 34.29 44.45 0)
+			(at 33.02 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11195,7 +11298,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 39.37 0)
+			(at 33.02 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11204,7 +11307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 39.37 0)
+			(at 33.02 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11213,7 +11316,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 39.37 0)
+			(at 33.02 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
