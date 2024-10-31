@@ -538,6 +538,10 @@
       {
         "netclass": "HIGH PWR",
         "pattern": "/OUT"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GNDPWR"
       }
     ]
   },
