@@ -513,6 +513,8 @@
       "+12V": "HIGH POWER",
       "+3.3V": "AUX PWR",
       "+5V": "HIGH POWER",
+      "/EFET_S": "HIGH PWR",
+      "/EFUSE_OUT": "HIGH PWR",
       "/IN": "HIGH PWR",
       "/IN_CAN": "HIGH PWR",
       "/Monitoring/+VBD": "AUX PWR",
@@ -520,6 +522,7 @@
       "/Monitoring/IN": "HIGH POWER",
       "/Monitoring/IN_CAN": "HIGH POWER",
       "/Monitoring/V_{IN}": "HIGH POWER",
+      "/OUT": "HIGH PWR",
       "/eFuse/IN": "HIGH POWER",
       "/eFuse/OUT": "HIGH POWER",
       "/eFuses/3.3V": "AUX PWR",
@@ -587,6 +590,7 @@
       "Net-(D51-K)": "HIGH PWR",
       "Net-(D7-K)": "HIGH PWR",
       "Net-(D9-K)": "HIGH PWR",
+      "Net-(J3-Pin_1)": "HIGH PWR",
       "Net-(Q1-Pad1)": "HIGH PWR",
       "Net-(Q1-Pad2)": "HIGH POWER",
       "Net-(Q1-Pad3)": "HIGH POWER",
@@ -614,6 +618,10 @@
       {
         "netclass": "GND",
         "pattern": "*GND"
+      },
+      {
+        "netclass": "AUX PWR",
+        "pattern": "+3V3"
       }
     ]
   },
@@ -720,7 +728,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "plots/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
