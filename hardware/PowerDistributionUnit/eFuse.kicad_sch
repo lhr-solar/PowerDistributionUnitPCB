@@ -7272,7 +7272,7 @@
 				)
 			)
 		)
-		(property "Value" "0679L9200-01"
+		(property "Value" "3568"
 			(at 179.07 32.004 90)
 			(effects
 				(font
@@ -7280,7 +7280,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 179.07 36.068 90)
 			(effects
 				(font
@@ -7388,7 +7388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87f2ddc6-7a2a-4cf6-a0ca-8110a95d15a1")
-		(property "Reference" "Q16"
+		(property "Reference" "Q19"
 			(at 128.27 27.94 90)
 			(effects
 				(font
