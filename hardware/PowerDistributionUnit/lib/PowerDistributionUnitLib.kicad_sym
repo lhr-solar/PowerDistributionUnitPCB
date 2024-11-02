@@ -3038,7 +3038,7 @@
 				)
 			)
 		)
-		(property "Value" "NUCLEO_LK43C"
+		(property "Value" "NUCLEO_L432KC"
 			(at 2.54 32.766 0)
 			(effects
 				(font
