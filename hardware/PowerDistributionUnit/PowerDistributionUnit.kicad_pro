@@ -514,34 +514,6 @@
       {
         "netclass": "GND",
         "pattern": "*GND"
-      },
-      {
-        "netclass": "AUX PWR",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "HIGH PWR",
-        "pattern": "/IN"
-      },
-      {
-        "netclass": "HIGH PWR",
-        "pattern": "/EFUSE_IN"
-      },
-      {
-        "netclass": "HIGH PWR",
-        "pattern": "/EFET_S"
-      },
-      {
-        "netclass": "HIGH PWR",
-        "pattern": "/EFUSE_OUT"
-      },
-      {
-        "netclass": "HIGH PWR",
-        "pattern": "/OUT"
-      },
-      {
-        "netclass": "GND",
-        "pattern": "GNDPWR"
       }
     ]
   },
@@ -648,7 +620,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "plots/",
+    "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
