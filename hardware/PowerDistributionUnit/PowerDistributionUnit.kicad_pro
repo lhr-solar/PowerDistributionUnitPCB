@@ -514,6 +514,30 @@
       {
         "netclass": "GND",
         "pattern": "*GND"
+      },
+      {
+        "netclass": "HIGH PWR",
+        "pattern": "/IN"
+      },
+      {
+        "netclass": "HIGH PWR",
+        "pattern": "/EFUSE_IN"
+      },
+      {
+        "netclass": "HIGH PWR",
+        "pattern": "/EFET_S"
+      },
+      {
+        "netclass": "HIGH PWR",
+        "pattern": "/EFUSE_OUT"
+      },
+      {
+        "netclass": "HIGH PWR",
+        "pattern": "/OUT"
+      },
+      {
+        "netclass": "AUX PWR",
+        "pattern": "+3V3"
       }
     ]
   },
