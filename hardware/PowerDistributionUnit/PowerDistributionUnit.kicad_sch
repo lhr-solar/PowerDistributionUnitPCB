@@ -6590,7 +6590,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 186.69) (xy 148.59 185.42)
+			(xy 156.21 186.69) (xy 156.21 185.42)
 		)
 		(stroke
 			(width 0)
@@ -6630,7 +6630,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 185.42) (xy 161.29 186.69)
+			(xy 148.59 185.42) (xy 148.59 186.69)
 		)
 		(stroke
 			(width 0)
@@ -7870,7 +7870,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 186.69) (xy 154.94 185.42)
+			(xy 162.56 186.69) (xy 162.56 185.42)
 		)
 		(stroke
 			(width 0)
@@ -10752,7 +10752,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220u"
+		(property "Value" "100u"
 			(at 193.04 39.37 0)
 			(effects
 				(font
@@ -10761,7 +10761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.6"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x9.9"
 			(at 190.1952 41.91 0)
 			(effects
 				(font
@@ -12365,136 +12365,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDPWR")
-		(at 29.21 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3e84924a-d82d-4cbe-8395-2b522baf0b86")
-		(property "Reference" "#PWR013"
-			(at 29.21 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 29.083 87.63 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 29.21 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 29.21 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 29.21 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b17166a9-9883-471d-90cd-e4c0264b2b2a")
-		)
-		(instances
-			(project "PowerDistributionUnit"
-				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDPWR")
-		(at 161.29 186.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42ca514b-3633-4229-87c8-507d72c0e363")
-		(property "Reference" "#PWR046"
-			(at 161.29 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 161.163 190.5 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 161.29 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 161.29 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 161.29 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d2d30baf-40d3-4f16-92af-795c32bd277b")
-		)
-		(instances
-			(project "PowerDistributionUnit"
-				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 109.22 181.61 0)
 		(unit 1)
@@ -13434,6 +13304,71 @@
 			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "JP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5cf41ddd-fdbc-4286-ab87-f168b654bc22")
+		(property "Reference" "#PWR028"
+			(at 148.59 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba6940eb-8e17-4de4-868f-33905693f81b")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -16013,7 +15948,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 154.94 186.69 0)
+		(at 162.56 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16021,7 +15956,7 @@
 		(dnp no)
 		(uuid "a3048f7f-2cbf-4e51-a217-604b712764f2")
 		(property "Reference" "#PWR011"
-			(at 154.94 191.77 0)
+			(at 162.56 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16030,7 +15965,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 154.813 190.5 0)
+			(at 162.433 190.5 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16038,7 +15973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 187.96 0)
+			(at 162.56 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16047,7 +15982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 187.96 0)
+			(at 162.56 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16056,7 +15991,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 154.94 186.69 0)
+			(at 162.56 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16212,7 +16147,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 154.94 185.42 0)
+		(at 162.56 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16220,7 +16155,7 @@
 		(dnp no)
 		(uuid "b0ef63fd-f5dd-4628-9a4e-3e7158820358")
 		(property "Reference" "TP8"
-			(at 155.702 181.102 0)
+			(at 163.322 181.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16229,7 +16164,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.908 179.832 0)
+			(at 160.528 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16239,7 +16174,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 160.02 185.42 0)
+			(at 167.64 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16248,7 +16183,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 185.42 0)
+			(at 167.64 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16257,7 +16192,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 154.94 185.42 0)
+			(at 162.56 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16739,6 +16674,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 29.21 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba4e9c6b-4d68-4d42-978c-df7d79495bf6")
+		(property "Reference" "#PWR013"
+			(at 29.21 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 29.21 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 29.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a85cb76b-7e14-4b93-84ac-13f1af079fda")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 264.16 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16944,7 +16944,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 148.59 186.69 0)
+		(at 156.21 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16952,7 +16952,7 @@
 		(dnp no)
 		(uuid "c02e5c3a-2130-4518-83ab-353ff7c09fe8")
 		(property "Reference" "#PWR012"
-			(at 148.59 191.77 0)
+			(at 156.21 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16961,7 +16961,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 148.463 190.5 0)
+			(at 156.083 190.5 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16969,7 +16969,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 187.96 0)
+			(at 156.21 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16978,7 +16978,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 187.96 0)
+			(at 156.21 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16987,7 +16987,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 148.59 186.69 0)
+			(at 156.21 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19690,7 +19690,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 161.29 185.42 0)
+		(at 148.59 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19698,7 +19698,7 @@
 		(dnp no)
 		(uuid "f184fab8-3286-48b1-86bb-f445f29812a3")
 		(property "Reference" "TP14"
-			(at 162.052 181.102 0)
+			(at 149.352 181.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19707,7 +19707,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 159.258 179.832 0)
+			(at 146.558 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19717,7 +19717,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 166.37 185.42 0)
+			(at 153.67 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19726,7 +19726,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 166.37 185.42 0)
+			(at 153.67 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19735,7 +19735,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 161.29 185.42 0)
+			(at 148.59 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20378,7 +20378,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 148.59 185.42 0)
+		(at 156.21 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20386,7 +20386,7 @@
 		(dnp no)
 		(uuid "fea71f9d-4510-434d-b212-4115d45cf6f8")
 		(property "Reference" "TP7"
-			(at 149.352 181.102 0)
+			(at 156.972 181.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20395,7 +20395,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 146.558 179.832 0)
+			(at 154.178 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20405,7 +20405,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 153.67 185.42 0)
+			(at 161.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20414,7 +20414,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 185.42 0)
+			(at 161.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20423,7 +20423,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 148.59 185.42 0)
+			(at 156.21 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
