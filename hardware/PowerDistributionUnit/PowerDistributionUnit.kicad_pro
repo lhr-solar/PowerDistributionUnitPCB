@@ -569,6 +569,7 @@
       "/eFuses/eFuse9/IN": "HIGH PWR",
       "/eFuses/eFuse9/OUT": "HIGH PWR",
       "/eFuses/eFuseCAN/IN": "HIGH PWR",
+      "/eFuses/eFuseCAN/OUT": "HIGH PWR",
       "Net-(D11-K)": "HIGH PWR",
       "Net-(D12-K)": "HIGH PWR",
       "Net-(D14-K)": "HIGH PWR",

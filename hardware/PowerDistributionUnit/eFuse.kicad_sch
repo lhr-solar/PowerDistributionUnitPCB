@@ -857,6 +857,127 @@
 				)
 			)
 		)
+		(symbol "Device:NetTie_2"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "NT"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "NetTie_2"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Net tie, 2 pins"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "net tie short"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Net*Tie*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NetTie_2_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "NetTie_2_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:Q_NMOS_SGD"
 			(pin_names
 				(offset 0) hide)
@@ -5129,6 +5250,19 @@
 		)
 		(uuid "06250562-2c55-4189-8ff6-9b17af7bb138")
 	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 135.89 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+			(justify right)
+		)
+		(uuid "0d6f3a51-48ed-41d9-b540-eb9ea312c143")
+	)
 	(hierarchical_label "R_{ILIM}_SDA"
 		(shape input)
 		(at 30.48 120.65 180)
@@ -5167,7 +5301,7 @@
 		)
 		(uuid "1ac8d5d9-38a4-48be-a5dc-a8e8b51873c1")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDPWR"
 		(shape passive)
 		(at 52.07 46.99 270)
 		(fields_autoplaced yes)
@@ -5265,7 +5399,7 @@
 		)
 		(uuid "4f98dbba-db38-45c4-9f66-b6944ac97741")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDPWR"
 		(shape passive)
 		(at 171.45 46.99 270)
 		(fields_autoplaced yes)
@@ -5315,6 +5449,19 @@
 			(justify right)
 		)
 		(uuid "604aa237-ceea-4067-9ae5-44089aae1dd4")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 140.97 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "6e1ac048-9c50-46fe-a4af-c1f6da1bdd1a")
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -5391,7 +5538,7 @@
 		)
 		(uuid "9e1fa785-e9fe-4bba-97e6-733d67172be4")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDPWR"
 		(shape passive)
 		(at 158.75 46.99 270)
 		(fields_autoplaced yes)
@@ -6624,6 +6771,130 @@
 				)
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/f7e10137-69e0-480a-8df5-8d0dccdcc2d2"
 					(reference "R160")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 138.43 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5523313c-95f8-475f-8f5e-0e3f0c6b25f1")
+		(property "Reference" "NT1"
+			(at 138.43 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 138.43 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd410db8-0dc2-4975-b201-b0906d38987d")
+		)
+		(pin "2"
+			(uuid "6fc0a412-b4a0-4887-9507-d5cc8637deae")
+		)
+		(instances
+			(project ""
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/12f77c20-05fa-4d9c-aec3-c07e18b6d94a"
+					(reference "NT3")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/1f358fa3-a889-4029-906a-d24c77ca2d2c"
+					(reference "NT12")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/215c0e10-1c35-49de-82cd-ab2f3dd12a9e"
+					(reference "NT1")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/45080e39-d0e0-46fa-9a7d-dc213e062091"
+					(reference "NT10")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/4fe7e578-4c31-4362-b2ce-382c78313084"
+					(reference "NT8")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/62a8656a-3368-4168-badf-be5ed339c086"
+					(reference "NT2")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/6be26867-cff6-432f-8722-bbdff7bef258"
+					(reference "NT5")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/81b4a052-923b-40a7-96aa-a0588ccb881f"
+					(reference "NT6")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/8c872111-9b56-46eb-86fe-f81e0a1b0aea"
+					(reference "NT4")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/ac9891f9-3fa8-47a7-ac15-e6baf4318520"
+					(reference "NT7")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/b137fa60-d290-4b94-9988-a3f6fdf61279"
+					(reference "NT11")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/cf101698-6453-4dc2-945c-b3975bb3daa4"
+					(reference "NT9")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/ee1e7bb5-535f-47d5-bf1b-6e8da704ac91"
+					(reference "NT15")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/f45b2dad-2c26-41bf-871e-7a4a557a3789"
+					(reference "NT14")
+					(unit 1)
+				)
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/f7e10137-69e0-480a-8df5-8d0dccdcc2d2"
+					(reference "NT13")
 					(unit 1)
 				)
 			)

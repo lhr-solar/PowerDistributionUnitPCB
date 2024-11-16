@@ -1394,7 +1394,7 @@
 		(uuid "fd9bf6fd-338d-4ba3-8d70-d71b065091d1")
 	)
 	(no_connect
-		(at 210.82 148.59)
+		(at 210.82 147.32)
 		(uuid "1317b0b0-8858-496a-8503-0d4de5aa3dc5")
 	)
 	(no_connect
@@ -1406,7 +1406,7 @@
 		(uuid "2ecfc18f-5941-4b11-8b9b-ac02535bf1fa")
 	)
 	(no_connect
-		(at 210.82 140.97)
+		(at 210.82 139.7)
 		(uuid "45ded16b-3145-4081-8514-e060b3f94790")
 	)
 	(no_connect
@@ -1414,7 +1414,7 @@
 		(uuid "54c15de8-0833-4223-ae24-90b9a03cc436")
 	)
 	(no_connect
-		(at 210.82 146.05)
+		(at 210.82 144.78)
 		(uuid "9cb00720-36d4-45fc-8c8a-f84871779829")
 	)
 	(no_connect
@@ -1426,7 +1426,7 @@
 		(uuid "cfecde54-f606-4c7b-b65a-b8f2907dbec6")
 	)
 	(no_connect
-		(at 210.82 143.51)
+		(at 210.82 142.24)
 		(uuid "f437871b-de0d-47f9-80b9-7a947007848b")
 	)
 	(bus_entry
@@ -1996,7 +1996,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 34.29) (xy 129.54 34.29)
+			(xy 123.19 33.02) (xy 129.54 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2056,7 +2056,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 105.41) (xy 251.46 105.41)
+			(xy 245.11 104.14) (xy 251.46 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +2116,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 143.51) (xy 170.18 143.51)
+			(xy 163.83 142.24) (xy 170.18 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2278,7 +2278,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 69.85) (xy 129.54 69.85)
+			(xy 123.19 68.58) (xy 129.54 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2379,7 +2379,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 36.83) (xy 251.46 36.83)
+			(xy 245.11 35.56) (xy 251.46 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2734,7 +2734,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 143.51) (xy 129.54 143.51)
+			(xy 123.19 142.24) (xy 129.54 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3099,7 +3099,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 72.39) (xy 210.82 72.39)
+			(xy 204.47 71.12) (xy 210.82 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3109,7 +3109,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 140.97) (xy 170.18 140.97)
+			(xy 163.83 139.7) (xy 170.18 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3282,7 +3282,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 107.95) (xy 129.54 107.95)
+			(xy 123.19 106.68) (xy 129.54 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3393,7 +3393,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 36.83) (xy 129.54 36.83)
+			(xy 123.19 35.56) (xy 129.54 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3466,7 +3466,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 36.83) (xy 210.82 36.83)
+			(xy 204.47 35.56) (xy 210.82 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3536,7 +3536,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 72.39) (xy 170.18 72.39)
+			(xy 163.83 71.12) (xy 170.18 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3617,7 +3617,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 34.29) (xy 170.18 34.29)
+			(xy 163.83 33.02) (xy 170.18 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3929,7 +3929,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 105.41) (xy 129.54 105.41)
+			(xy 123.19 104.14) (xy 129.54 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3939,7 +3939,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 140.97) (xy 129.54 140.97)
+			(xy 123.19 139.7) (xy 129.54 139.7)
 		)
 		(stroke
 			(width 0)
@@ -4215,7 +4215,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 69.85) (xy 251.46 69.85)
+			(xy 245.11 68.58) (xy 251.46 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4286,7 +4286,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 105.41) (xy 210.82 105.41)
+			(xy 204.47 104.14) (xy 210.82 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4296,7 +4296,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 107.95) (xy 170.18 107.95)
+			(xy 163.83 106.68) (xy 170.18 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4369,7 +4369,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 69.85) (xy 210.82 69.85)
+			(xy 204.47 68.58) (xy 210.82 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4390,7 +4390,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 34.29) (xy 251.46 34.29)
+			(xy 245.11 33.02) (xy 251.46 33.02)
 		)
 		(stroke
 			(width 0)
@@ -4493,7 +4493,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 72.39) (xy 129.54 72.39)
+			(xy 123.19 71.12) (xy 129.54 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4625,7 +4625,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 105.41) (xy 170.18 105.41)
+			(xy 163.83 104.14) (xy 170.18 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4687,7 +4687,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 36.83) (xy 170.18 36.83)
+			(xy 163.83 35.56) (xy 170.18 35.56)
 		)
 		(stroke
 			(width 0)
@@ -4707,7 +4707,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 107.95) (xy 251.46 107.95)
+			(xy 245.11 106.68) (xy 251.46 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4817,7 +4817,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 107.95) (xy 210.82 107.95)
+			(xy 204.47 106.68) (xy 210.82 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4827,7 +4827,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 72.39) (xy 251.46 72.39)
+			(xy 245.11 71.12) (xy 251.46 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4990,7 +4990,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 34.29) (xy 210.82 34.29)
+			(xy 204.47 33.02) (xy 210.82 33.02)
 		)
 		(stroke
 			(width 0)
@@ -5021,7 +5021,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 69.85) (xy 170.18 69.85)
+			(xy 163.83 68.58) (xy 170.18 68.58)
 		)
 		(stroke
 			(width 0)
@@ -5555,7 +5555,7 @@
 		(uuid "0493b4a7-d340-4883-92a9-780771ec8724")
 	)
 	(label "SC3"
-		(at 163.83 140.97 0)
+		(at 163.83 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5566,7 +5566,7 @@
 		(uuid "058efa8a-c4be-45fd-b162-82b70fc74749")
 	)
 	(label "SD1"
-		(at 163.83 72.39 0)
+		(at 163.83 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5687,7 +5687,7 @@
 		(uuid "202a28ac-b777-419a-87a9-b630071483a7")
 	)
 	(label "SD0"
-		(at 123.19 36.83 0)
+		(at 123.19 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5698,7 +5698,7 @@
 		(uuid "25e1029c-9b2f-4ef0-87f9-af0ba0027518")
 	)
 	(label "SD2"
-		(at 163.83 107.95 0)
+		(at 163.83 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5753,7 +5753,7 @@
 		(uuid "285c876f-022e-4325-ad00-2292900f8746")
 	)
 	(label "SC0"
-		(at 204.47 34.29 0)
+		(at 204.47 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5885,7 +5885,7 @@
 		(uuid "363ac26f-8e74-4d52-903e-52b8da35f8c6")
 	)
 	(label "SD0"
-		(at 204.47 36.83 0)
+		(at 204.47 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5929,7 +5929,7 @@
 		(uuid "37a11aad-6ae4-45ed-a3e3-6946f3f919c3")
 	)
 	(label "SD0"
-		(at 245.11 36.83 0)
+		(at 245.11 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5973,7 +5973,7 @@
 		(uuid "3ce0fc2c-969c-4c47-a530-5e4f4a9bd81a")
 	)
 	(label "SC0"
-		(at 245.11 34.29 0)
+		(at 245.11 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6017,7 +6017,7 @@
 		(uuid "3ffc3973-be50-4958-8653-a54f4cea5b03")
 	)
 	(label "SC1"
-		(at 163.83 69.85 0)
+		(at 163.83 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6028,7 +6028,7 @@
 		(uuid "408a834e-65fb-40b9-850a-08a14855c7b3")
 	)
 	(label "SC0"
-		(at 123.19 34.29 0)
+		(at 123.19 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6512,7 +6512,7 @@
 		(uuid "8c0ad67a-1dfe-4d24-930e-49d83c811729")
 	)
 	(label "SC0"
-		(at 163.83 34.29 0)
+		(at 163.83 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6655,7 +6655,7 @@
 		(uuid "9dbec4f5-e34c-4a16-8c64-b73521f1d79d")
 	)
 	(label "SC2"
-		(at 204.47 105.41 0)
+		(at 204.47 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6666,7 +6666,7 @@
 		(uuid "9ecccdcb-3735-4c08-be29-3a953d8d7191")
 	)
 	(label "SC2"
-		(at 123.19 105.41 0)
+		(at 123.19 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6798,7 +6798,7 @@
 		(uuid "b8f1cf63-9d72-4b06-9a2b-e4c6bcb740f1")
 	)
 	(label "SD1"
-		(at 204.47 72.39 0)
+		(at 204.47 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6842,7 +6842,7 @@
 		(uuid "bf1087c9-f4f6-4dd6-a9e9-248d4c50b013")
 	)
 	(label "SC1"
-		(at 123.19 69.85 0)
+		(at 123.19 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6875,7 +6875,7 @@
 		(uuid "c8538ead-551a-4d14-a683-7a399265d8d2")
 	)
 	(label "SD3"
-		(at 163.83 143.51 0)
+		(at 163.83 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6886,7 +6886,7 @@
 		(uuid "ca129ef7-e455-42b5-a250-f23a7ae9e5e5")
 	)
 	(label "SC3"
-		(at 123.19 140.97 0)
+		(at 123.19 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6930,7 +6930,7 @@
 		(uuid "ce8446cb-59d3-482b-be91-e47625f78b09")
 	)
 	(label "SC2"
-		(at 245.11 105.41 0)
+		(at 245.11 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6974,7 +6974,7 @@
 		(uuid "d1307ee4-694a-4721-ada2-7cfbd3c54dd5")
 	)
 	(label "SC1"
-		(at 204.47 69.85 0)
+		(at 204.47 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7029,7 +7029,7 @@
 		(uuid "d63d3405-5427-4918-bc62-1dc6b2c98fda")
 	)
 	(label "SC1"
-		(at 245.11 69.85 0)
+		(at 245.11 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7106,7 +7106,7 @@
 		(uuid "db3823e0-6fff-402d-9f35-73a00843fedc")
 	)
 	(label "SC2"
-		(at 163.83 105.41 0)
+		(at 163.83 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7117,7 +7117,7 @@
 		(uuid "dc1c72f3-4d92-42c1-be93-033152297307")
 	)
 	(label "SD1"
-		(at 123.19 72.39 0)
+		(at 123.19 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7172,7 +7172,7 @@
 		(uuid "e1c50bd0-abbc-4e35-80e5-e50c1ce41f22")
 	)
 	(label "SD3"
-		(at 123.19 143.51 0)
+		(at 123.19 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7183,7 +7183,7 @@
 		(uuid "e40a5d6d-c9ed-483e-86e7-111b4009b1e7")
 	)
 	(label "SD2"
-		(at 204.47 107.95 0)
+		(at 204.47 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7238,7 +7238,7 @@
 		(uuid "e7899cd2-f8b4-42c4-82af-c584783911ed")
 	)
 	(label "SD0"
-		(at 163.83 36.83 0)
+		(at 163.83 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7315,7 +7315,7 @@
 		(uuid "f097a980-0d6b-407b-96ef-a8c04fb5b12c")
 	)
 	(label "SD2"
-		(at 123.19 107.95 0)
+		(at 123.19 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7403,7 +7403,7 @@
 		(uuid "f61e6e47-81dc-4f02-89a4-bea0d2bd83f4")
 	)
 	(label "SD1"
-		(at 245.11 72.39 0)
+		(at 245.11 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7436,7 +7436,7 @@
 		(uuid "fa0959e9-d2ce-463f-8064-677d62d6ae45")
 	)
 	(label "SD2"
-		(at 245.11 107.95 0)
+		(at 245.11 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7481,7 +7481,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 170.18 113.03 180)
+		(at 170.18 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7505,19 +7505,6 @@
 		)
 		(uuid "02307215-d718-4dc6-83e0-1528f2212b73")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 210.82 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "0671e6b2-eb7f-4170-ae2f-54099edd4f6a")
-	)
 	(hierarchical_label "3.3V"
 		(shape input)
 		(at 63.5 44.45 0)
@@ -7532,7 +7519,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 148.59 180)
+		(at 129.54 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7545,7 +7532,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 146.05 180)
+		(at 129.54 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7568,18 +7555,18 @@
 		)
 		(uuid "13e38a96-3629-43be-ac34-36a7ef1d7ae1")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDPWR"
 		(shape passive)
-		(at 170.18 116.84 180)
+		(at 251.46 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(color 0 0 0 1)
+				(color 72 72 72 1)
 			)
 			(justify right)
 		)
-		(uuid "15aea9d6-5f96-43fb-b0f3-d3f39b24f06f")
+		(uuid "1563b7f2-6e81-4ed5-a891-d8f6f42df481")
 	)
 	(hierarchical_label "EN*"
 		(shape input)
@@ -7608,6 +7595,19 @@
 		)
 		(uuid "1a2c4ea6-36fa-4857-8127-61a892ef1880")
 	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 129.54 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "1b079a01-6792-4480-a85e-f524801da633")
+	)
 	(hierarchical_label "3.3V"
 		(shape input)
 		(at 92.71 120.65 180)
@@ -7634,7 +7634,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 210.82 39.37 180)
+		(at 210.82 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7644,6 +7644,19 @@
 			(justify right)
 		)
 		(uuid "1e59a347-8ef8-4794-82ad-a5c2abf3567e")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 170.18 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "1f6d6237-d8a9-44cd-95d9-97a15f45ccec")
 	)
 	(hierarchical_label "IN"
 		(shape input)
@@ -7684,19 +7697,6 @@
 		)
 		(uuid "28cbb27e-e5eb-4b64-9dae-b6e6c19af38b")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 210.82 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "2a25d16a-b03b-4c5e-8b1f-02db8cbb87b7")
-	)
 	(hierarchical_label "SPI_CLK"
 		(shape bidirectional)
 		(at 77.47 96.52 0)
@@ -7724,7 +7724,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 251.46 77.47 180)
+		(at 251.46 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7749,7 +7749,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 251.46 113.03 180)
+		(at 251.46 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7774,7 +7774,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 74.93 180)
+		(at 129.54 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7787,20 +7787,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "360bac1b-cd0b-411c-a7a9-c9e7fa68ce94")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 129.54 41.91 180)
+		(at 129.54 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7810,6 +7797,32 @@
 			(justify right)
 		)
 		(uuid "367e7181-5fbc-45f0-84c2-79f476435d66")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 170.18 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "37ba3396-c210-4520-8af1-252b6172476f")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 129.54 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "390f101b-7365-46ff-8708-e4e8a65444bb")
 	)
 	(hierarchical_label "IN"
 		(shape input)
@@ -7852,7 +7865,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 251.46 110.49 180)
+		(at 251.46 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7865,7 +7878,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 39.37 180)
+		(at 129.54 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7875,6 +7888,19 @@
 			(justify right)
 		)
 		(uuid "48502516-f4bf-4b06-a0de-3c30c5fe3474")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 129.54 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "4893a4e7-c65f-4e53-8093-53529a18aaf0")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -7914,6 +7940,19 @@
 		)
 		(uuid "55e184f4-06a6-42eb-a929-4322ac506572")
 	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 251.46 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "5910fe02-9abb-424a-8e7a-66befaa1a2db")
+	)
 	(hierarchical_label "3.3V"
 		(shape input)
 		(at 25.4 43.18 180)
@@ -7941,7 +7980,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 251.46 39.37 180)
+		(at 251.46 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7951,19 +7990,6 @@
 			(justify right)
 		)
 		(uuid "613deafa-b1b0-4687-a5b6-e20c0928cb1d")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 170.18 45.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "61db1215-d449-45cd-a5f8-c5f4db77df12")
 	)
 	(hierarchical_label "R_{ILIM}_SDA"
 		(shape input)
@@ -8003,7 +8029,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 170.18 110.49 180)
+		(at 170.18 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8016,7 +8042,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 113.03 180)
+		(at 129.54 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8042,7 +8068,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 210.82 74.93 180)
+		(at 210.82 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8053,9 +8079,22 @@
 		)
 		(uuid "68ff9e59-65f4-4d8d-acc5-662417b24761")
 	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 170.18 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "6cc618c0-f2ed-4a71-baf0-d90bdf4978bd")
+	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 110.49 180)
+		(at 129.54 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8078,6 +8117,19 @@
 			(justify right)
 		)
 		(uuid "74ae4cda-38b0-47a3-b09d-9fdc339835e3")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 129.54 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "786909c8-2f1f-4108-8010-c9756b10692e")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -8120,7 +8172,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 170.18 148.59 180)
+		(at 170.18 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8131,18 +8183,18 @@
 		)
 		(uuid "7cfeec59-dc50-4dff-8ebd-1c41e0d37780")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDPWR"
 		(shape passive)
-		(at 251.46 81.28 180)
+		(at 170.18 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(color 0 0 0 1)
+				(color 72 72 72 1)
 			)
 			(justify right)
 		)
-		(uuid "8047c079-1028-46c7-8bf7-de415176abba")
+		(uuid "7d9e9963-3b40-40c9-915e-844dba206942")
 	)
 	(hierarchical_label "SPI_MISO"
 		(shape bidirectional)
@@ -8168,32 +8220,6 @@
 		)
 		(uuid "88dd32da-d550-4711-8740-fca87e8c1f99")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 129.54 152.4 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "8a0a0bc8-3a96-4fad-a2c4-22f19850becd")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 170.18 152.4 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "8b196dfe-e5c9-41d2-bc5d-bbabf8302bda")
-	)
 	(hierarchical_label "IN"
 		(shape input)
 		(at 170.18 130.81 180)
@@ -8207,9 +8233,22 @@
 		)
 		(uuid "8be4eabd-2595-4e42-9fac-973c250c82a5")
 	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 251.46 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "97d8a5fd-7d0d-40bd-9dbb-f727015b724a")
+	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 210.82 41.91 180)
+		(at 210.82 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8222,7 +8261,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 170.18 41.91 180)
+		(at 170.18 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8271,19 +8310,6 @@
 		)
 		(uuid "a13edd51-ab36-44e8-9239-d834889ce0de")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 129.54 45.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "a6e9d1ec-e52b-4075-b683-26cbfa4b0105")
-	)
 	(hierarchical_label "IN"
 		(shape input)
 		(at 251.46 59.69 180)
@@ -8299,7 +8325,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 170.18 74.93 180)
+		(at 170.18 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8309,19 +8335,6 @@
 			(justify right)
 		)
 		(uuid "ab071f0b-2e73-47f3-ab79-fee5c79f5df7")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 210.82 45.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "ae2d3cac-027c-4550-80e5-d6802b3c9de2")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -8350,7 +8363,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 210.82 77.47 180)
+		(at 210.82 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8360,32 +8373,6 @@
 			(justify right)
 		)
 		(uuid "b7f851a7-7052-4265-8a38-63c6e3fe7b35")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 251.46 45.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "bab81526-ff7a-4c94-8071-fb611fd3a121")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 129.54 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "bb467521-58a8-4105-b065-40ac39097a63")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -8400,6 +8387,19 @@
 		)
 		(uuid "c0f945f6-f459-4116-8e78-04d43476d65a")
 	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 210.82 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "c196f424-6961-48d3-947e-ecfabed955d3")
+	)
 	(hierarchical_label "OUT*"
 		(shape output)
 		(at 105.41 147.32 0)
@@ -8411,6 +8411,19 @@
 			(justify left)
 		)
 		(uuid "c3ea8804-04a8-4fdd-945e-0b4aec143319")
+	)
+	(hierarchical_label "GNDPWR"
+		(shape passive)
+		(at 210.82 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 72 72 1)
+			)
+			(justify right)
+		)
+		(uuid "c52f0d71-9e9a-424a-a671-df3a172beac6")
 	)
 	(hierarchical_label "IN"
 		(shape input)
@@ -8424,19 +8437,6 @@
 			(justify right)
 		)
 		(uuid "c915bfbf-5ba2-4a87-965e-38e93834d2bb")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 251.46 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "ca9bc82c-1ebb-4591-8905-df09fb7d8004")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -8464,22 +8464,22 @@
 		)
 		(uuid "d1cf6ab3-3db7-449b-ada2-e13d6b466c79")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDPWR"
 		(shape passive)
-		(at 170.18 81.28 180)
+		(at 210.82 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(color 0 0 0 1)
+				(color 72 72 72 1)
 			)
 			(justify right)
 		)
-		(uuid "d1f95855-007c-4582-9b99-49056eeb4f44")
+		(uuid "d57213f9-e0b0-4c25-b701-02aa6032db34")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 170.18 146.05 180)
+		(at 170.18 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8505,7 +8505,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 170.18 39.37 180)
+		(at 170.18 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8544,7 +8544,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 210.82 113.03 180)
+		(at 210.82 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8557,7 +8557,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 170.18 77.47 180)
+		(at 170.18 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8570,12 +8570,12 @@
 	)
 	(hierarchical_label "CAN-"
 		(shape input)
-		(at 210.82 152.4 180)
+		(at 210.82 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(color 0 0 0 1)
+				(color 72 72 72 1)
 			)
 			(justify right)
 		)
@@ -8621,7 +8621,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 251.46 41.91 180)
+		(at 251.46 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8646,7 +8646,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 129.54 77.47 180)
+		(at 129.54 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8659,7 +8659,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 210.82 110.49 180)
+		(at 210.82 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8696,7 +8696,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 251.46 74.93 180)
+		(at 251.46 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9842,7 +9842,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 210.82 45.72 180)
+			(at 210.82 44.45 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9893,7 +9893,7 @@
 			(uuid "1ccedac7-2ad8-4fc0-beeb-244cf99b8827")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 210.82 34.29 180)
+			(at 210.82 33.02 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9903,7 +9903,7 @@
 			(uuid "cdfd2641-13d5-4e16-8062-7a46bfa07c4a")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 210.82 36.83 180)
+			(at 210.82 35.56 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9913,7 +9913,7 @@
 			(uuid "5ac1ac63-07cd-4475-b45a-d01820abb84a")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 210.82 41.91 180)
+			(at 210.82 40.64 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9923,7 +9923,7 @@
 			(uuid "d84d0e22-dc09-4d96-9c73-d2ca44359fde")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 210.82 39.37 180)
+			(at 210.82 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9951,6 +9951,17 @@
 				(justify left)
 			)
 			(uuid "ec7c480f-5df2-418e-934e-de3b9d39bb66")
+		)
+		(pin "GNDPWR" passive
+			(at 210.82 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "c7325375-553a-4465-ab4c-f259d6b536d8")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -9992,7 +10003,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 251.46 116.84 180)
+			(at 251.46 115.57 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10043,7 +10054,7 @@
 			(uuid "e7d49083-1e64-49ab-af8b-8798d5b20961")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 251.46 105.41 180)
+			(at 251.46 104.14 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10053,7 +10064,7 @@
 			(uuid "a84a00c4-7358-46b4-a1bc-fb5ba4a99ebd")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 251.46 107.95 180)
+			(at 251.46 106.68 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10063,7 +10074,7 @@
 			(uuid "caee3cbd-85b5-48f5-a062-f45567e438ce")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 251.46 113.03 180)
+			(at 251.46 111.76 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10073,7 +10084,7 @@
 			(uuid "0a65d0ae-78b8-4584-bcb3-bce19c23b13a")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 251.46 110.49 180)
+			(at 251.46 109.22 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10101,6 +10112,17 @@
 				(justify left)
 			)
 			(uuid "92ffd92d-760f-4353-96cb-0f7e6239af4c")
+		)
+		(pin "GNDPWR" passive
+			(at 251.46 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "2da694b1-e51c-4ff2-a633-9d169b75e646")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -10142,7 +10164,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 129.54 45.72 180)
+			(at 129.54 44.45 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10193,7 +10215,7 @@
 			(uuid "348d1620-fd01-4491-9300-2e89844bca6f")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 129.54 34.29 180)
+			(at 129.54 33.02 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10203,7 +10225,7 @@
 			(uuid "5433d179-5d5b-4a82-820f-9a8e222e25e2")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 129.54 36.83 180)
+			(at 129.54 35.56 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10213,7 +10235,7 @@
 			(uuid "d183d49d-4edc-4655-8333-f800d1e19bff")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 129.54 41.91 180)
+			(at 129.54 40.64 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10223,7 +10245,7 @@
 			(uuid "e2120ca3-d32f-4a46-a53d-1ad4b22fc1a9")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 129.54 39.37 180)
+			(at 129.54 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10251,6 +10273,17 @@
 				(justify left)
 			)
 			(uuid "6cd20b2f-d885-4a43-a407-c45d5c8f1c56")
+		)
+		(pin "GNDPWR" passive
+			(at 129.54 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "c4719458-0294-4d6e-8d77-a3eaecec2af4")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -10292,7 +10325,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 170.18 116.84 180)
+			(at 170.18 115.57 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10343,7 +10376,7 @@
 			(uuid "36e26c08-8bb1-442a-b69d-280eb7e22532")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 170.18 105.41 180)
+			(at 170.18 104.14 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10353,7 +10386,7 @@
 			(uuid "f0c543d4-4edb-4fc7-8cd8-f3fdd21e35f4")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 170.18 107.95 180)
+			(at 170.18 106.68 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10363,7 +10396,7 @@
 			(uuid "8dce9540-eb5b-4f67-87d0-d84a4afb43b1")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 170.18 113.03 180)
+			(at 170.18 111.76 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10373,7 +10406,7 @@
 			(uuid "aa54d9b5-18f9-4bbf-a3f3-d7bca1fd22d6")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 170.18 110.49 180)
+			(at 170.18 109.22 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10401,6 +10434,17 @@
 				(justify left)
 			)
 			(uuid "15001e8b-d5e6-4219-a666-2687d462c661")
+		)
+		(pin "GNDPWR" passive
+			(at 170.18 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "64e7b7d6-41e1-4998-82dc-d6f851c793f4")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -10442,7 +10486,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 251.46 81.28 180)
+			(at 251.46 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10493,7 +10537,7 @@
 			(uuid "848db73a-aa4e-4ca6-9cd3-526383b07189")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 251.46 69.85 180)
+			(at 251.46 68.58 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10503,7 +10547,7 @@
 			(uuid "2bb52fdc-ac4c-46da-b242-c1585611fb3b")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 251.46 72.39 180)
+			(at 251.46 71.12 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10513,7 +10557,7 @@
 			(uuid "c5791807-a56d-4361-bfd4-e4a0828e3bbf")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 251.46 77.47 180)
+			(at 251.46 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10523,7 +10567,7 @@
 			(uuid "e8e0426d-9056-4ba3-93cc-ef5619b1ffd8")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 251.46 74.93 180)
+			(at 251.46 73.66 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10551,6 +10595,17 @@
 				(justify left)
 			)
 			(uuid "9de342c3-42b7-447d-8297-77ce86a4a69c")
+		)
+		(pin "GNDPWR" passive
+			(at 251.46 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "231babe1-e7a1-4d4a-b612-5b8d368ed992")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -10592,7 +10647,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 170.18 45.72 180)
+			(at 170.18 44.45 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10643,7 +10698,7 @@
 			(uuid "a0d63d31-d914-4164-8ba0-95d55e0ec632")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 170.18 34.29 180)
+			(at 170.18 33.02 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10653,7 +10708,7 @@
 			(uuid "83fff64f-5b39-418b-ac6b-b564fef2af7f")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 170.18 36.83 180)
+			(at 170.18 35.56 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10663,7 +10718,7 @@
 			(uuid "8686de0d-8991-443d-a138-5dc151920db5")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 170.18 41.91 180)
+			(at 170.18 40.64 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10673,7 +10728,7 @@
 			(uuid "eed43737-5785-40ae-b20e-78cd97448dea")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 170.18 39.37 180)
+			(at 170.18 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10701,6 +10756,17 @@
 				(justify left)
 			)
 			(uuid "8bd1ec3c-a916-4761-9fc6-535436cda074")
+		)
+		(pin "GNDPWR" passive
+			(at 170.18 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "fd23c662-7a70-437d-ad67-ca043994cc76")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -10742,7 +10808,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 129.54 81.28 180)
+			(at 129.54 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10793,7 +10859,7 @@
 			(uuid "9cfabbc1-bec4-485b-bceb-ae9aba528d88")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 129.54 69.85 180)
+			(at 129.54 68.58 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10803,7 +10869,7 @@
 			(uuid "2e71688b-fcd7-44de-9551-d53c22cd9fc1")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 129.54 72.39 180)
+			(at 129.54 71.12 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10813,7 +10879,7 @@
 			(uuid "c4ed14c5-6b35-49d5-a70f-01b50876a40e")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 129.54 77.47 180)
+			(at 129.54 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10823,7 +10889,7 @@
 			(uuid "8ee8fc1d-a2c6-4610-967f-3efc133a4227")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 129.54 74.93 180)
+			(at 129.54 73.66 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10851,6 +10917,17 @@
 				(justify left)
 			)
 			(uuid "bd7bb0d5-d9d0-46fc-a316-78d446d8a6cb")
+		)
+		(pin "GNDPWR" passive
+			(at 129.54 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "b1366d0d-57a0-407d-a88b-63be911d685a")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -10892,7 +10969,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 170.18 81.28 180)
+			(at 170.18 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10943,7 +11020,7 @@
 			(uuid "a498f5ea-173e-4e9c-acfd-7d03cf614bd2")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 170.18 69.85 180)
+			(at 170.18 68.58 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +11030,7 @@
 			(uuid "61d89796-6942-4c1d-87e5-d2e17a50eafe")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 170.18 72.39 180)
+			(at 170.18 71.12 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10963,7 +11040,7 @@
 			(uuid "e23d1ba8-5bc2-47dd-84fd-9d37a6ea4ce3")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 170.18 77.47 180)
+			(at 170.18 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10973,7 +11050,7 @@
 			(uuid "cdebd4ff-41e5-476e-a8eb-9b2f6db1d98a")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 170.18 74.93 180)
+			(at 170.18 73.66 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11001,6 +11078,17 @@
 				(justify left)
 			)
 			(uuid "44bcb19f-a36b-411a-9bd6-7025f7ae1401")
+		)
+		(pin "GNDPWR" passive
+			(at 170.18 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "e135397b-3399-4ced-a1a3-28af03fce579")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11042,7 +11130,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 251.46 45.72 180)
+			(at 251.46 44.45 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11093,7 +11181,7 @@
 			(uuid "b7830a55-a358-47c3-bceb-ade4f7a5dec5")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 251.46 34.29 180)
+			(at 251.46 33.02 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11103,7 +11191,7 @@
 			(uuid "fd8b9552-c727-4316-8a85-d0adced607db")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 251.46 36.83 180)
+			(at 251.46 35.56 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11113,7 +11201,7 @@
 			(uuid "57b6d3a4-a097-4543-80cf-70b57413831d")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 251.46 41.91 180)
+			(at 251.46 40.64 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11123,7 +11211,7 @@
 			(uuid "5d7f416e-7c5a-4cbb-9da9-fb86d94c0261")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 251.46 39.37 180)
+			(at 251.46 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11151,6 +11239,17 @@
 				(justify left)
 			)
 			(uuid "c3c388c4-6137-4b08-bb95-002b33abcc54")
+		)
+		(pin "GNDPWR" passive
+			(at 251.46 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "d98eed47-bdd4-43cc-a589-67d7bbd09b50")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11192,7 +11291,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 210.82 81.28 180)
+			(at 210.82 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11243,7 +11342,7 @@
 			(uuid "7298db7f-d97d-463e-a7d5-69f4d90e07c8")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 210.82 69.85 180)
+			(at 210.82 68.58 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11253,7 +11352,7 @@
 			(uuid "37001ce5-042e-4390-bb14-e01676cc6cfc")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 210.82 72.39 180)
+			(at 210.82 71.12 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11263,7 +11362,7 @@
 			(uuid "c2b66d4a-835c-4d06-9f70-f1154ef54ea2")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 210.82 77.47 180)
+			(at 210.82 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11273,7 +11372,7 @@
 			(uuid "e2d77d4a-ace6-4f75-8b13-c29504aeeb83")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 210.82 74.93 180)
+			(at 210.82 73.66 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11301,6 +11400,17 @@
 				(justify left)
 			)
 			(uuid "64b4983a-1598-46bc-9a61-281ef89483cc")
+		)
+		(pin "GNDPWR" passive
+			(at 210.82 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "1767bad3-6a62-4278-9a35-bb498446a18e")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11342,7 +11452,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 210.82 116.84 180)
+			(at 210.82 115.57 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11393,7 +11503,7 @@
 			(uuid "d4192621-44bb-4af4-966e-b79c42244c85")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 210.82 105.41 180)
+			(at 210.82 104.14 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11403,7 +11513,7 @@
 			(uuid "c62b9e22-41e5-47ec-8d8f-084e202aa3ed")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 210.82 107.95 180)
+			(at 210.82 106.68 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11413,7 +11523,7 @@
 			(uuid "ad60dcd5-e3f5-4a6a-8a1a-5c312b0958fe")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 210.82 113.03 180)
+			(at 210.82 111.76 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11423,7 +11533,7 @@
 			(uuid "55a03e83-ee48-40f9-a35b-f7c9178ff602")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 210.82 110.49 180)
+			(at 210.82 109.22 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11451,6 +11561,17 @@
 				(justify left)
 			)
 			(uuid "419620ae-ad50-4b05-8070-acab1340b287")
+		)
+		(pin "GNDPWR" passive
+			(at 210.82 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "b4bb8fc5-2c7b-446a-b0c9-b3580479e1a1")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11492,7 +11613,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 129.54 116.84 180)
+			(at 129.54 115.57 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11543,7 +11664,7 @@
 			(uuid "f1ae6261-3ce3-4244-8208-978c9096031d")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 129.54 105.41 180)
+			(at 129.54 104.14 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11553,7 +11674,7 @@
 			(uuid "e6526ce2-a69b-4797-97ca-f3f3e8374f79")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 129.54 107.95 180)
+			(at 129.54 106.68 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11563,7 +11684,7 @@
 			(uuid "28cd22a1-3a3c-4936-834e-038921c45778")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 129.54 113.03 180)
+			(at 129.54 111.76 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11573,7 +11694,7 @@
 			(uuid "1017bbf4-aef8-4a2c-bb85-70b6a1b52fc3")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 129.54 110.49 180)
+			(at 129.54 109.22 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11601,6 +11722,17 @@
 				(justify left)
 			)
 			(uuid "85dc52f9-e557-4c03-8ece-1a2b9f048ac4")
+		)
+		(pin "GNDPWR" passive
+			(at 129.54 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "bbbbf1d0-4162-4b0f-93ef-a44e678bf639")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11642,7 +11774,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 210.82 152.4 180)
+			(at 210.82 151.13 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11693,7 +11825,7 @@
 			(uuid "93c9bac9-8e7d-4e1c-afa7-413a51280f57")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 210.82 140.97 180)
+			(at 210.82 139.7 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11703,7 +11835,7 @@
 			(uuid "60979aa5-ce60-4cb7-8b5f-9a2d09d19075")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 210.82 143.51 180)
+			(at 210.82 142.24 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11713,7 +11845,7 @@
 			(uuid "6067af27-bf40-44f6-8ac8-98d9724e92f5")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 210.82 148.59 180)
+			(at 210.82 147.32 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11723,7 +11855,7 @@
 			(uuid "fee3ffa0-2ec6-4a36-bf89-dc29084539ed")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 210.82 146.05 180)
+			(at 210.82 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11751,6 +11883,17 @@
 				(justify left)
 			)
 			(uuid "306e276b-1738-4120-87f9-7b0cd62fec2d")
+		)
+		(pin "GNDPWR" passive
+			(at 210.82 153.67 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "ada56a4e-34e2-4d32-afda-efcffc6667d9")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11792,7 +11935,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 170.18 152.4 180)
+			(at 170.18 151.13 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11843,7 +11986,7 @@
 			(uuid "e63da3d7-fb73-4759-bab8-704a6ac04727")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 170.18 140.97 180)
+			(at 170.18 139.7 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11853,7 +11996,7 @@
 			(uuid "e9c60617-ff31-486f-931f-9c389bc74647")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 170.18 143.51 180)
+			(at 170.18 142.24 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11863,7 +12006,7 @@
 			(uuid "7f9cf227-4dcc-457b-8c20-94395ed42d6a")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 170.18 148.59 180)
+			(at 170.18 147.32 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11873,7 +12016,7 @@
 			(uuid "d0721088-0407-44da-99aa-da9adf068ea6")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 170.18 146.05 180)
+			(at 170.18 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11901,6 +12044,17 @@
 				(justify left)
 			)
 			(uuid "51f0c7c9-05dc-42a1-bfa6-afebf1d76a5d")
+		)
+		(pin "GNDPWR" passive
+			(at 170.18 153.67 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "991aaa3c-6e48-4bef-8f1f-6b214084e2e4")
 		)
 		(instances
 			(project "PowerDistributionUnit"
@@ -11942,7 +12096,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 129.54 152.4 180)
+			(at 129.54 151.13 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11993,7 +12147,7 @@
 			(uuid "dfa56952-898a-4b35-ad4c-81186ad68b43")
 		)
 		(pin "R_{ILIM}_SCL" input
-			(at 129.54 140.97 180)
+			(at 129.54 139.7 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12003,7 +12157,7 @@
 			(uuid "b0293794-b600-43c6-9db1-f8c8b758f62b")
 		)
 		(pin "R_{ILIM}_SDA" input
-			(at 129.54 143.51 180)
+			(at 129.54 142.24 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12013,7 +12167,7 @@
 			(uuid "7e595eb9-8769-4a2b-b451-2b44c8e65686")
 		)
 		(pin "R_{ILIM}_AD1" input
-			(at 129.54 148.59 180)
+			(at 129.54 147.32 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12023,7 +12177,7 @@
 			(uuid "11bff187-e0ac-49d8-8fef-34d511444c7b")
 		)
 		(pin "R_{ILIM}_AD0" input
-			(at 129.54 146.05 180)
+			(at 129.54 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12051,6 +12205,17 @@
 				(justify left)
 			)
 			(uuid "9bf8f735-e260-4ef2-a8fb-346e91ee4761")
+		)
+		(pin "GNDPWR" passive
+			(at 129.54 153.67 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 72 72 1)
+				)
+				(justify left)
+			)
+			(uuid "f3ad1a6f-d0d8-47c4-9005-e027dc79d0c8")
 		)
 		(instances
 			(project "PowerDistributionUnit"
