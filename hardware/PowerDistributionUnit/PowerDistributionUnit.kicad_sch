@@ -9959,7 +9959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerDistributionUnitLib:973582100"
+		(property "Footprint" "PowerDistributionUnitLib:5754"
 			(at 217.17 43.18 0)
 			(effects
 				(font
@@ -14938,7 +14938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerDistributionUnitLib:973582101"
+		(property "Footprint" "PowerDistributionUnitLib:5754"
 			(at 22.86 31.75 0)
 			(effects
 				(font
@@ -15271,7 +15271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerDistributionUnitLib:973582100"
+		(property "Footprint" "PowerDistributionUnitLib:5754"
 			(at 22.86 43.18 0)
 			(effects
 				(font
@@ -15812,7 +15812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerDistributionUnitLib:973582101"
+		(property "Footprint" "PowerDistributionUnitLib:5754"
 			(at 217.17 31.75 0)
 			(effects
 				(font
