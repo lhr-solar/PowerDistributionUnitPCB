@@ -6832,6 +6832,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 125.73) (xy 204.47 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b52afd96-8343-4ea9-b386-589148e0ae7f")
+	)
+	(wire
+		(pts
 			(xy 261.62 107.95) (xy 261.62 109.22)
 		)
 		(stroke
@@ -7332,6 +7342,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 125.73) (xy 196.85 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f68f637b-82ec-4838-bc11-684fe44be51d")
+	)
+	(wire
+		(pts
 			(xy 233.68 82.55) (xy 233.68 83.82)
 		)
 		(stroke
@@ -7464,7 +7484,7 @@
 	)
 	(rectangle
 		(start 154.94 96.52)
-		(end 219.71 127)
+		(end 219.71 129.54)
 		(stroke
 			(width 0)
 			(type default)
@@ -13342,6 +13362,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 194.31 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "add73e99-d44d-48de-a0e6-caff1860e8d8")
+		(property "Reference" "#PWR018"
+			(at 198.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 190.754 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 194.31 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 194.31 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0424f54-702f-4cd9-b3fc-e762fc3c0233")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 162.56 185.42 0)
 		(unit 1)
@@ -14286,6 +14371,76 @@
 			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 199.39 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2de1176-043f-4391-8d11-22e03885a959")
+		(property "Reference" "C4"
+			(at 198.1262 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1u"
+			(at 200.6662 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "25f65e22-00a1-4b0c-ba76-4a1bd06e895f")
+		)
+		(pin "1"
+			(uuid "9e282bf0-3847-4117-beb7-a5be6649a4ad")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -16861,6 +17016,71 @@
 			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 204.47 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fd8a8747-a788-4956-98e7-d2731eee7448")
+		(property "Reference" "#PWR026"
+			(at 210.82 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.026 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 204.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c68e9f9-e866-4f90-92a7-46294244a226")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
