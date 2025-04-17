@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "71427952-d2e6-43fb-a435-6de61192820b")
 	(paper "A4")
+	(title_block
+		(title "eFuse Monitoring and Control")
+		(date "2025-04-17")
+		(rev "A")
+		(company "Longhorn Racing Solar")
+		(comment 1 "Changxu Liu, Watts Yasueda")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint_Small"
 			(pin_numbers
@@ -10033,7 +10040,7 @@
 			(uuid "da6dd763-56e8-4ee1-9317-095e08c4624c")
 		)
 		(instances
-			(project ""
+			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd/afc26468-877c-4928-9f2e-9c48c52cd2d4/bc39789f-e0c1-41b2-a007-8436ff69f871"
 					(reference "U34")
 					(unit 1)
