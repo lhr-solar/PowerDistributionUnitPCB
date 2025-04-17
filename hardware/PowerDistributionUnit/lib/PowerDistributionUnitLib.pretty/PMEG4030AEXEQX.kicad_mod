@@ -6,7 +6,7 @@
 	(descr "SOD123HP")
 	(tags "Schottky Diode")
 	(property "Reference" "D**"
-		(at 0.037 0 0)
+		(at 0 -1.8 0)
 		(layer "F.SilkS")
 		(uuid "7529ddad-f8f0-4dc4-855d-7d99df85c6d4")
 		(effects
@@ -232,17 +232,17 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "e1d3f402-a594-4976-a679-9b1f65d6cc31")
 	)
+	(pad "1" smd rect
+		(at -0.337 0 90)
+		(size 1.5 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2bb4d5ed-b087-4bb1-8142-3180d7497b5d")
+	)
 	(pad "2" smd rect
 		(at 1.587 0)
 		(size 1.15 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "594bc8da-cff2-40af-9855-7c83c46754b7")
-	)
-	(pad "3" smd rect
-		(at -0.337 0 90)
-		(size 1.5 1.55)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "2bb4d5ed-b087-4bb1-8142-3180d7497b5d")
 	)
 	(embedded_fonts no)
 	(embedded_files
