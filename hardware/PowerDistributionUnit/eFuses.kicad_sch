@@ -1050,6 +1050,54 @@
 		)
 		(uuid "fb248f08-009f-4bd2-9a4a-0fdb6d301622")
 	)
+	(text_box "Change digipot I2C addresses per eFuse group"
+		(exclude_from_sim no)
+		(at 168.91 5.08 0)
+		(size 26.67 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "24c5b724-9d36-4e71-8bb2-2a945ed6a9e8")
+	)
+	(text_box "BUT BEFORE THAT\nregen efuse multichannel groups because OVLO trace got disconnected"
+		(exclude_from_sim no)
+		(at 210.82 10.16 0)
+		(size 43.18 21.59)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "60bbf575-72fe-4060-94d8-151d94cb1a91")
+	)
 	(junction
 		(at 74.93 34.29)
 		(diameter 0)

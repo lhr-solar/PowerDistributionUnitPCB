@@ -4491,12 +4491,6 @@
 		(uuid "32e00640-83f1-454b-9817-db8601d836af")
 	)
 	(junction
-		(at 251.46 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3503a010-a244-4045-af61-15ade99f3881")
-	)
-	(junction
 		(at 138.43 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4543,12 +4537,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "627ea006-059e-4a8b-96af-b65bbf658c64")
-	)
-	(junction
-		(at 246.38 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "81f180ec-fabb-4c48-a7e6-86e86bf0696b")
 	)
 	(junction
 		(at 93.98 31.75)
@@ -5146,7 +5134,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 138.43) (xy 248.92 138.43)
+			(xy 252.73 133.35) (xy 248.92 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5321,16 +5309,6 @@
 			(type default)
 		)
 		(uuid "216730f8-7b33-4cd6-b97c-4c0f54783796")
-	)
-	(wire
-		(pts
-			(xy 251.46 130.81) (xy 251.46 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21bd444b-917f-402b-923e-342d2c255cd5")
 	)
 	(wire
 		(pts
@@ -5717,16 +5695,6 @@
 		)
 		(uuid "3f80c9b0-71ca-43d3-beec-b0284cc3d9ea")
 	)
-	(wire
-		(pts
-			(xy 252.73 130.81) (xy 251.46 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40469ec6-ec63-450f-b997-64b01e68ae11")
-	)
 	(bus
 		(pts
 			(xy 33.02 167.64) (xy 33.02 162.56)
@@ -5853,16 +5821,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 118.11) (xy 252.73 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "447a7d68-c5fe-40dd-a43e-3f94eae745d2")
-	)
-	(wire
-		(pts
 			(xy 156.21 99.06) (xy 156.21 101.6)
 		)
 		(stroke
@@ -5977,16 +5935,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 120.65) (xy 246.38 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ad091de-faf7-48e7-807a-ff6463fd4c22")
-	)
-	(wire
-		(pts
 			(xy 83.82 86.36) (xy 90.17 86.36)
 		)
 		(stroke
@@ -6069,16 +6017,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 118.11) (xy 251.46 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50679725-0d7f-4dc8-9089-1dbe945d22ae")
-	)
-	(wire
-		(pts
 			(xy 49.53 129.54) (xy 50.8 129.54)
 		)
 		(stroke
@@ -6106,16 +6044,6 @@
 			(type default)
 		)
 		(uuid "525c161c-1567-425b-8bc0-aac37bac60f2")
-	)
-	(wire
-		(pts
-			(xy 246.38 120.65) (xy 252.73 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53eb6e38-ef68-48ff-ad4e-963f6edccc8f")
 	)
 	(wire
 		(pts
@@ -6440,16 +6368,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 133.35) (xy 252.73 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "804d7880-5f9a-4e75-b3f6-d805184a8731")
-	)
-	(wire
-		(pts
 			(xy 149.86 130.81) (xy 152.4 130.81)
 		)
 		(stroke
@@ -6656,7 +6574,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 138.43) (xy 248.92 125.73)
+			(xy 248.92 133.35) (xy 248.92 125.73)
 		)
 		(stroke
 			(width 0)
@@ -7460,7 +7378,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 135.89) (xy 250.19 135.89)
+			(xy 252.73 130.81) (xy 250.19 130.81)
 		)
 		(stroke
 			(width 0)
@@ -7604,16 +7522,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 133.35) (xy 246.38 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f117c96e-d2e0-4b9f-a7b8-41614ad2bd4d")
-	)
-	(wire
-		(pts
 			(xy 85.09 130.81) (xy 85.09 129.54)
 		)
 		(stroke
@@ -7698,7 +7606,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 135.89) (xy 250.19 123.19)
+			(xy 250.19 130.81) (xy 250.19 123.19)
 		)
 		(stroke
 			(width 0)
@@ -7989,6 +7897,42 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF72LAMAAAB6AAAAAAAAAACIpgcDAAAA"
 			"jAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
@@ -8617,7 +8561,7 @@
 		(uuid "64119158-90b3-4401-a943-c1ecfe560591")
 	)
 	(label "CAN_L"
-		(at 238.76 125.73 0)
+		(at 238.76 123.19 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8809,7 +8753,7 @@
 		(uuid "affadc7c-eb60-4c67-bf49-f7f50fb51556")
 	)
 	(label "CAN_H"
-		(at 238.76 123.19 0)
+		(at 238.76 125.73 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8918,16 +8862,6 @@
 			(justify right bottom)
 		)
 		(uuid "d9a2d953-8632-40fe-b186-6b1b772fb55f")
-	)
-	(label "CAN_V"
-		(at 238.76 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "da769a07-2e39-4358-8a94-e51472900a35")
 	)
 	(label "CAN_L"
 		(at 90.17 133.35 180)
@@ -9689,82 +9623,6 @@
 			(project ""
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "C183")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 257.81 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1dea2060-20dc-4d26-84d6-cb7228464577")
-		(property "Reference" "J15"
-			(at 260.35 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 260.35 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x4xP3.00mm_PolarizingPeg_Vertical"
-			(at 257.81 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 257.81 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "f34af6fe-92bc-4a32-87b0-bbc89185aab1")
-		)
-		(pin "2"
-			(uuid "195de047-1037-4989-b9e6-c312585e9da0")
-		)
-		(pin "3"
-			(uuid "8a530e7d-b4cc-4c6f-9572-0a6fc0906a91")
-		)
-		(pin "1"
-			(uuid "8d779f96-884c-4ae0-a83f-e5cad21e15bb")
-		)
-		(instances
-			(project ""
-				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -11917,72 +11775,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 246.38 135.89 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6a618f8b-58c2-4c9f-b091-f3e5d1838799")
-		(property "Reference" "#PWR045"
-			(at 246.38 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.38 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b7ac24df-aac1-49e8-8e32-e111d7d971ea")
-		)
-		(instances
-			(project "PowerDistributionUnit"
-				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "#PWR045")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 156.21 106.68 0)
 		(unit 1)
@@ -12123,82 +11915,6 @@
 			(project ""
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 257.81 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "742c2f86-f86c-432a-acc5-9f4e09b8521f")
-		(property "Reference" "J14"
-			(at 260.35 120.6499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 260.35 123.1899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x4xP3.00mm_PolarizingPeg_Vertical"
-			(at 257.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 257.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ddd51a2d-eca9-4c2f-8423-b995c7cb37ca")
-		)
-		(pin "2"
-			(uuid "b3f0c285-9e85-4e3f-8ed3-592916d952cf")
-		)
-		(pin "3"
-			(uuid "43e0dc6d-941c-4e01-9812-13705dd15944")
-		)
-		(pin "4"
-			(uuid "8fdfb6a8-92ac-4534-ae1e-c860bf0b3d7c")
-		)
-		(instances
-			(project "PowerDistributionUnit"
-				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
-					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -12866,6 +12582,76 @@
 			(project "PowerDistributionUnit"
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "TP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 257.81 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8433794b-db87-4f8e-a48c-7276f8148093")
+		(property "Reference" "J15"
+			(at 260.35 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 260.35 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical"
+			(at 257.81 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 257.81 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 257.81 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c2ae7072-7d08-4b42-ab25-c3df68fa3f36")
+		)
+		(pin "1"
+			(uuid "ab553619-ec16-499b-b8d5-975964719db6")
+		)
+		(instances
+			(project "PowerDistributionUnit"
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -15445,6 +15231,76 @@
 			(project ""
 				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 257.81 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed621527-693a-4e3b-abea-a63d91cf7f5e")
+		(property "Reference" "J14"
+			(at 260.35 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 260.35 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x2xP3.00mm_PolarizingPeg_Vertical"
+			(at 257.81 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 257.81 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 257.81 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "629019d5-fecc-448a-87e5-303683700e48")
+		)
+		(pin "1"
+			(uuid "17f9ca1a-e874-4fd0-8609-efb4f31fa2b0")
+		)
+		(instances
+			(project ""
+				(path "/93fa4ef0-f02c-4535-aca9-c62461ff58dd"
+					(reference "J14")
 					(unit 1)
 				)
 			)

@@ -7365,7 +7365,7 @@
 		)
 		(uuid "191de5ff-8b27-4933-bca8-f21c3ef4d246")
 	)
-	(hierarchical_label "3.3V"
+	(hierarchical_label "3.3VA"
 		(shape input)
 		(at 140.97 39.37 180)
 		(effects
@@ -7502,7 +7502,7 @@
 		)
 		(uuid "3c86545b-d548-4307-9e77-8fdde7db62a5")
 	)
-	(hierarchical_label "3.3V"
+	(hierarchical_label "3.3VA"
 		(shape input)
 		(at 140.97 53.34 180)
 		(effects
@@ -7756,7 +7756,7 @@
 		)
 		(uuid "a0f97069-8e92-4742-9e4d-a37705a150e3")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDA"
 		(shape passive)
 		(at 139.7 147.32 180)
 		(effects
@@ -7779,7 +7779,7 @@
 		)
 		(uuid "a3ffb37c-62ed-4004-84ac-762a8c51661a")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDA"
 		(shape passive)
 		(at 140.97 63.5 180)
 		(effects
@@ -7849,7 +7849,7 @@
 		)
 		(uuid "b1c67be8-1783-4a82-b92a-0241fc07d9b0")
 	)
-	(hierarchical_label "3.3V"
+	(hierarchical_label "3.3VA"
 		(shape input)
 		(at 139.7 137.16 180)
 		(effects
@@ -8045,7 +8045,7 @@
 		)
 		(uuid "dfbb86ec-31e6-4017-8207-741d9968c1f1")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDA"
 		(shape passive)
 		(at 140.97 49.53 180)
 		(effects
@@ -8057,7 +8057,7 @@
 		)
 		(uuid "e2baaf89-1314-4b95-b291-a06d87eb9b2e")
 	)
-	(hierarchical_label "GND"
+	(hierarchical_label "GNDA"
 		(shape passive)
 		(at 139.7 133.35 180)
 		(effects
@@ -8092,7 +8092,7 @@
 		)
 		(uuid "ed92616e-c7e5-4f7b-bfcb-3e45976dd6cb")
 	)
-	(hierarchical_label "3.3V"
+	(hierarchical_label "3.3VA"
 		(shape input)
 		(at 139.7 123.19 180)
 		(effects
