@@ -6949,42 +6949,6 @@
 		)
 		(uuid "06eda3bf-34b6-4a00-a4f0-9be278e6edca")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "0c874ab3-353f-404f-af08-89573eab6550")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "0f8500da-d8dc-43f7-8b00-123110d9c1b0")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "13df4259-e1f4-4df4-a285-ea149af726dd")
-	)
 	(hierarchical_label "GNDPWR"
 		(shape passive)
 		(at 227.33 49.53 180)
@@ -7042,18 +7006,6 @@
 			(justify right)
 		)
 		(uuid "1b079a01-6792-4480-a85e-f524801da633")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "1edddab7-c055-4ee9-a86e-3c6d069391ec")
 	)
 	(hierarchical_label "GNDPWR"
 		(shape passive)
@@ -7126,30 +7078,6 @@
 		)
 		(uuid "23c6e4d3-a2db-45fd-8c38-55e8e49ea8c6")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 43.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "254e27df-4134-4a34-b7b6-986fdb4dc875")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 227.33 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "26e11b9a-0659-4e66-8bea-65f3b3058be8")
-	)
 	(hierarchical_label "IN"
 		(shape input)
 		(at 151.13 97.79 180)
@@ -7185,18 +7113,6 @@
 		)
 		(uuid "311e9797-4bd9-48fc-bf4f-613bece30d03")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 227.33 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "325921ad-4eff-4fe0-8545-bd7f2e18e642")
-	)
 	(hierarchical_label "3.3V"
 		(shape input)
 		(at 71.12 33.02 90)
@@ -7207,30 +7123,6 @@
 			(justify left)
 		)
 		(uuid "345b5cbc-3c42-4fad-ae3b-5153298cb1d3")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "34811777-ee93-44dc-9cbd-252240d109cc")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 43.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "367e7181-5fbc-45f0-84c2-79f476435d66")
 	)
 	(hierarchical_label "GNDPWR"
 		(shape passive)
@@ -7294,18 +7186,6 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 227.33 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "3ccfbb15-f5a6-47ed-b436-32ced5fc1ae2")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
 		(at 25.4 53.34 0)
 		(effects
 			(font
@@ -7363,18 +7243,6 @@
 		)
 		(uuid "46d56801-256e-4f31-a5ae-62109207c8ad")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 40.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "48502516-f4bf-4b06-a0de-3c30c5fe3474")
-	)
 	(hierarchical_label "GNDPWR"
 		(shape passive)
 		(at 113.03 49.53 180)
@@ -7386,18 +7254,6 @@
 			(justify right)
 		)
 		(uuid "4893a4e7-c65f-4e53-8093-53529a18aaf0")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 40.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "4ed53adc-016a-4a13-80ba-6ce3c2dc5e07")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -7412,18 +7268,6 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 227.33 40.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "4f2fc2fe-e295-4859-961d-b81c5e4d5d4a")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
 		(at 151.13 82.55 180)
 		(effects
 			(font
@@ -7433,18 +7277,6 @@
 			(justify right)
 		)
 		(uuid "4f3fbec5-1dfc-48b4-8631-0b4f8bdaf8a2")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "523c6695-55c3-452f-9c55-62f7a53a4e12")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -7492,18 +7324,6 @@
 		)
 		(uuid "5b08fa7b-e5dd-462e-9f23-fe2e4aaa828b")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "5cc7c586-dd95-49e4-b571-ff058a957ceb")
-	)
 	(hierarchical_label "CS_IMON0"
 		(shape input)
 		(at 40.64 113.03 180)
@@ -7514,18 +7334,6 @@
 			(justify right)
 		)
 		(uuid "66ac15f9-3ec5-4ea0-8129-7b0db8329a31")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "67a363a1-1192-4bc8-8e73-389b2d7fa5cc")
 	)
 	(hierarchical_label "~{SYNC}{slash}~{RESET}"
 		(shape output)
@@ -7561,30 +7369,6 @@
 			(justify right)
 		)
 		(uuid "6cc618c0-f2ed-4a71-baf0-d90bdf4978bd")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "6e82855a-82fc-42bc-bc9b-bf48bbc44b6f")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "6fd8c992-6030-403d-aae0-cb5638ce7cb6")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -7668,18 +7452,6 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 189.23 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "80cb8fb3-a98b-45ac-ba34-376951e07d02")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
 		(at 113.03 46.99 180)
 		(effects
 			(font
@@ -7749,18 +7521,6 @@
 		)
 		(uuid "97d8a5fd-7d0d-40bd-9dbb-f727015b724a")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "98c30ed4-648b-4c8a-97c6-f056383e1c77")
-	)
 	(hierarchical_label "3.3V"
 		(shape input)
 		(at 189.23 135.89 180)
@@ -7795,18 +7555,6 @@
 		)
 		(uuid "9e9166b0-b19e-4ce2-9dc3-05edbf49ffab")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "a0319539-58e2-42de-9754-c3ef6d6bad3a")
-	)
 	(hierarchical_label "3.3V"
 		(shape input)
 		(at 58.42 53.34 0)
@@ -7829,18 +7577,6 @@
 			(justify right)
 		)
 		(uuid "a93212af-3195-4289-9bf1-fe96dad3de5d")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 227.33 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "ad70f102-4b9c-4cd1-be4b-7d49ac469cb8")
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -7900,18 +7636,6 @@
 		)
 		(uuid "c0f945f6-f459-4116-8e78-04d43476d65a")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 227.33 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "c16df91b-75fd-4010-99bd-351724fdfa77")
-	)
 	(hierarchical_label "GNDPWR"
 		(shape passive)
 		(at 189.23 85.09 180)
@@ -7923,18 +7647,6 @@
 			(justify right)
 		)
 		(uuid "c196f424-6961-48d3-947e-ecfabed955d3")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "c1c1fca7-c0e9-49c3-ae80-086107bfac2a")
 	)
 	(hierarchical_label "{I2C1}"
 		(shape bidirectional)
@@ -7957,18 +7669,6 @@
 			(justify left)
 		)
 		(uuid "c3ea8804-04a8-4fdd-945e-0b4aec143319")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "c4590a97-fd4d-45fd-b203-880ef6b657a8")
 	)
 	(hierarchical_label "IN"
 		(shape input)
@@ -7994,18 +7694,6 @@
 		)
 		(uuid "c52f0d71-9e9a-424a-a671-df3a172beac6")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "c760e362-c73d-427c-9ebf-aa3366bee157")
-	)
 	(hierarchical_label "IN"
 		(shape input)
 		(at 151.13 62.23 180)
@@ -8028,30 +7716,6 @@
 			(justify right)
 		)
 		(uuid "cae197b6-70a1-42e0-b244-6d81a1d95569")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 40.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "cdfd2d5b-8aa3-4d52-9ade-7e602b19425e")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 189.23 43.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "cf9898b3-df2b-49f5-8e6e-2a398e3c145b")
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -8181,18 +7845,6 @@
 		)
 		(uuid "e22bc60f-7fab-4cba-8a39-88e921794420")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 151.13 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "e2f46427-2366-4e9d-a097-69ad6cee680b")
-	)
 	(hierarchical_label "IN"
 		(shape input)
 		(at 113.03 62.23 180)
@@ -8215,42 +7867,6 @@
 			(justify left)
 		)
 		(uuid "ea1abd8f-1deb-4ab5-a0aa-286986b91c4c")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 227.33 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "ea6ee255-9103-4ef5-8311-5574c6a95ecb")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 227.33 43.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "ed00ee0b-30ed-4dd3-9f19-bfd9fae3e68b")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 113.03 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-			(justify right)
-		)
-		(uuid "ed14f9b1-6f8f-43f6-833a-6ad347175d7d")
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
@@ -9469,26 +9085,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 189.23 43.18 180)
-			(uuid "d84d0e22-dc09-4d96-9c73-d2ca44359fde")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 189.23 40.64 180)
-			(uuid "9d4b3931-efbf-4aa8-8a35-c2ddb76a6e3b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 209.55 34.29 0)
 			(uuid "e268ec6b-4fec-4df3-a4ba-ae9c63ad3754")
@@ -9637,26 +9233,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 227.33 109.22 180)
 			(uuid "caee3cbd-85b5-48f5-a062-f45567e438ce")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 227.33 114.3 180)
-			(uuid "0a65d0ae-78b8-4584-bcb3-bce19c23b13a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 227.33 111.76 180)
-			(uuid "3945f91c-4cfc-4fbb-9014-672b8c63f21d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9819,26 +9395,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 113.03 43.18 180)
-			(uuid "e2120ca3-d32f-4a46-a53d-1ad4b22fc1a9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 113.03 40.64 180)
-			(uuid "6b022ea6-88fe-4a80-b231-b4a4e3694b7b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 133.35 34.29 0)
 			(uuid "c70ef39f-df40-4e70-ba99-a283188b811d")
@@ -9987,26 +9543,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 151.13 109.22 180)
 			(uuid "8dce9540-eb5b-4f67-87d0-d84a4afb43b1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 151.13 114.3 180)
-			(uuid "aa54d9b5-18f9-4bbf-a3f3-d7bca1fd22d6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 151.13 111.76 180)
-			(uuid "8160ad0e-b9c3-4152-a5c1-8ce0c5b72eaa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10169,26 +9705,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 227.33 78.74 180)
-			(uuid "e8e0426d-9056-4ba3-93cc-ef5619b1ffd8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 227.33 76.2 180)
-			(uuid "f6eb910a-ac28-4ef7-b98e-3353d8dd631c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 247.65 69.85 0)
 			(uuid "90505e32-e974-4575-89ca-36771b98d909")
@@ -10337,26 +9853,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 151.13 38.1 180)
 			(uuid "8686de0d-8991-443d-a138-5dc151920db5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 151.13 43.18 180)
-			(uuid "eed43737-5785-40ae-b20e-78cd97448dea")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 151.13 40.64 180)
-			(uuid "c756e619-7767-44df-a9b6-afc7ee72c921")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10519,26 +10015,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 113.03 78.74 180)
-			(uuid "8ee8fc1d-a2c6-4610-967f-3efc133a4227")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 113.03 76.2 180)
-			(uuid "7eba1c74-1ad3-43f4-8c83-e822b45950c3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 133.35 69.85 0)
 			(uuid "8bf70dce-226b-465d-b1f4-4b0e291189d2")
@@ -10687,26 +10163,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 151.13 73.66 180)
 			(uuid "e23d1ba8-5bc2-47dd-84fd-9d37a6ea4ce3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 151.13 78.74 180)
-			(uuid "cdebd4ff-41e5-476e-a8eb-9b2f6db1d98a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 151.13 76.2 180)
-			(uuid "006645e3-13f0-4d1d-93f1-e6c1f8f51d11")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10869,26 +10325,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 227.33 149.86 180)
-			(uuid "539048c8-810c-424e-b319-c6a41076fe72")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 227.33 147.32 180)
-			(uuid "9d0de07d-e14f-44cd-ac8c-9c5b0ebc675b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 247.65 140.97 0)
 			(uuid "273bc6da-b05e-40d4-a49b-beda2a2a67e3")
@@ -11037,26 +10473,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 227.33 38.1 180)
 			(uuid "57b6d3a4-a097-4543-80cf-70b57413831d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 227.33 43.18 180)
-			(uuid "5d7f416e-7c5a-4cbb-9da9-fb86d94c0261")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 227.33 40.64 180)
-			(uuid "19a90693-90c0-48d6-a88b-ca350ce7d699")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11219,26 +10635,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 189.23 78.74 180)
-			(uuid "e2d77d4a-ace6-4f75-8b13-c29504aeeb83")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 189.23 76.2 180)
-			(uuid "5b236dec-6fae-4876-a88d-6dff699f7e1d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 209.55 69.85 0)
 			(uuid "7d1d838c-4983-4d70-ae3b-efa612ea437f")
@@ -11394,26 +10790,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 189.23 114.3 180)
-			(uuid "55a03e83-ee48-40f9-a35b-f7c9178ff602")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 189.23 111.76 180)
-			(uuid "af0f2087-9575-4607-b8d5-cd5911609096")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 209.55 105.41 0)
 			(uuid "ce037711-23ec-45d0-866a-a4b5680d5c2e")
@@ -11562,26 +10938,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 189.23 144.78 180)
 			(uuid "f68fdc23-a6c5-4b37-9a43-e1edcfe5fa36")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 189.23 149.86 180)
-			(uuid "19882933-1929-4276-bada-d09f25f4e0be")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 189.23 147.32 180)
-			(uuid "90d71f90-0aad-4c46-a2f5-fb0ac3546620")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11936,26 +11292,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 113.03 114.3 180)
-			(uuid "1017bbf4-aef8-4a2c-bb85-70b6a1b52fc3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 113.03 111.76 180)
-			(uuid "d160de1c-938d-4aa8-9b87-c3ae048556bb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 133.35 105.41 0)
 			(uuid "4a55fe46-b0db-4553-b985-a4a8cabf7174")
@@ -12111,26 +11447,6 @@
 				(justify left)
 			)
 		)
-		(pin "R_{ILIM}_AD1" input
-			(at 151.13 149.86 180)
-			(uuid "d0721088-0407-44da-99aa-da9adf068ea6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 151.13 147.32 180)
-			(uuid "afe5ca91-9138-43b7-9d0e-713e017e9b9d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "IMON" output
 			(at 171.45 140.97 0)
 			(uuid "78f8160e-8240-414c-91d7-5333c97a3672")
@@ -12279,26 +11595,6 @@
 		(pin "R_{ILIM}_SDA" input
 			(at 113.03 144.78 180)
 			(uuid "7e595eb9-8769-4a2b-b451-2b44c8e65686")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD1" input
-			(at 113.03 149.86 180)
-			(uuid "11bff187-e0ac-49d8-8fef-34d511444c7b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_{ILIM}_AD0" input
-			(at 113.03 147.32 180)
-			(uuid "0639c140-51a8-4e86-a1a9-2d817775a265")
 			(effects
 				(font
 					(size 1.27 1.27)
