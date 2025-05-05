@@ -7976,7 +7976,25 @@
 			"AAAAMgAAADcAAAAgAAAAbQAAAG0AAACyAAAAIAAAAHcAAABpAAAAcgAAAGUAAABzAAAALAAAACAA"
 			"AABiAAAAYQAAAHMAAABpAAAAYwAAACAAAABpAAAAbgAAAHMAAAB1AAAAbAAAAGEAAAB0AAAAaQAA"
 			"AG8AAABuAAAALAAAACAAAABjAAAAbwAAAG4AAABkAAAAdQAAAGMAAAB0AAAAbwAAAHIAAAAgAAAA"
-			"ZAAAAGkAAA=="
+			"ZAAAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAA=="
 		)
 	)
 	(table
@@ -8334,7 +8352,7 @@
 		)
 		(uuid "14030065-dd5e-436c-8f50-e654126aaf8b")
 	)
-	(label "OUT.12"
+	(label "OUT.11"
 		(at 270.51 80.01 180)
 		(effects
 			(font
@@ -8384,7 +8402,7 @@
 		)
 		(uuid "256c0b3f-e891-409e-a453-7aba9275ad47")
 	)
-	(label "OUT.3"
+	(label "OUT.4"
 		(at 234.95 80.01 0)
 		(effects
 			(font
@@ -8414,7 +8432,7 @@
 		)
 		(uuid "2b182b7b-b646-4458-83ff-0c6f6d9445f2")
 	)
-	(label "OUT.10"
+	(label "OUT.13"
 		(at 270.51 85.09 180)
 		(effects
 			(font
@@ -8434,7 +8452,7 @@
 		)
 		(uuid "31fdadb0-b917-4fb2-99ae-99eff32806f0")
 	)
-	(label "OUT.14"
+	(label "OUT.9"
 		(at 270.51 74.93 180)
 		(effects
 			(font
@@ -8504,7 +8522,7 @@
 		)
 		(uuid "45bdb767-ca35-4bb1-a957-0a941d803343")
 	)
-	(label "OUT.15"
+	(label "OUT.8"
 		(at 270.51 72.39 180)
 		(effects
 			(font
@@ -8606,7 +8624,7 @@
 		)
 		(uuid "64fc4c0e-8f63-4d53-9746-d4ee5fa67e09")
 	)
-	(label "OUT.8"
+	(label "OUT.15"
 		(at 270.51 90.17 180)
 		(effects
 			(font
@@ -8616,7 +8634,7 @@
 		)
 		(uuid "675673f0-abff-4858-9d8b-b05adae6bd79")
 	)
-	(label "OUT.13"
+	(label "OUT.10"
 		(at 270.51 77.47 180)
 		(effects
 			(font
@@ -8656,7 +8674,7 @@
 		)
 		(uuid "70503afd-9e3c-4477-8ee7-97b5fe5f70d7")
 	)
-	(label "OUT.4"
+	(label "OUT.3"
 		(at 234.95 82.55 0)
 		(effects
 			(font
@@ -8666,7 +8684,7 @@
 		)
 		(uuid "861867e3-0ddf-410f-a04c-9c28eb2cf6d7")
 	)
-	(label "OUT.9"
+	(label "OUT.14"
 		(at 270.51 87.63 180)
 		(effects
 			(font
@@ -8686,7 +8704,7 @@
 		)
 		(uuid "86c6c926-9877-436c-a336-c55a9f8de7d2")
 	)
-	(label "OUT.1"
+	(label "OUT.6"
 		(at 234.95 74.93 0)
 		(effects
 			(font
@@ -8839,7 +8857,7 @@
 		)
 		(uuid "c90a2301-268d-4969-8d97-2557538d9bec")
 	)
-	(label "OUT.11"
+	(label "OUT.12"
 		(at 270.51 82.55 180)
 		(effects
 			(font
@@ -8849,7 +8867,7 @@
 		)
 		(uuid "d02bcbc8-225a-4d86-9448-604e8b2348da")
 	)
-	(label "OUT.6"
+	(label "OUT.1"
 		(at 234.95 87.63 0)
 		(effects
 			(font
@@ -8879,7 +8897,7 @@
 		)
 		(uuid "d77c8675-0ef7-429d-b547-f1006af12e8a")
 	)
-	(label "OUT.7"
+	(label "OUT.0"
 		(at 234.95 90.17 0)
 		(effects
 			(font
@@ -8909,7 +8927,7 @@
 		)
 		(uuid "db1b2199-285c-4630-96e2-0cbccf3533f9")
 	)
-	(label "OUT.2"
+	(label "OUT.5"
 		(at 234.95 77.47 0)
 		(effects
 			(font
@@ -8970,7 +8988,7 @@
 		)
 		(uuid "eca6e863-1f89-4214-a71f-bf472bc764a3")
 	)
-	(label "OUT.5"
+	(label "OUT.2"
 		(at 234.95 85.09 0)
 		(effects
 			(font
@@ -9010,7 +9028,7 @@
 		)
 		(uuid "f38d6e25-2632-4296-acb7-d1db77a2fb6b")
 	)
-	(label "OUT.0"
+	(label "OUT.7"
 		(at 234.95 72.39 0)
 		(effects
 			(font
@@ -15676,16 +15694,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x10_Top_Bottom")
-		(at 251.46 82.55 0)
+		(at 254 82.55 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f905aa78-ae8b-4ee1-8308-33c389dfdc1f")
 		(property "Reference" "J4"
-			(at 252.73 66.04 0)
+			(at 252.73 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15693,7 +15711,7 @@
 			)
 		)
 		(property "Value" "Conn_02x10_Top_Bottom"
-			(at 252.73 68.58 0)
+			(at 252.476 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15701,7 +15719,7 @@
 			)
 		)
 		(property "Footprint" "PowerDistributionUnitLib:Molex_MicroFit3.0_2x10xP3.00mm_PolarizingPeg_Vertical"
-			(at 251.46 82.55 0)
+			(at 254 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15710,7 +15728,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 251.46 82.55 0)
+			(at 254 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15719,7 +15737,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x10, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 251.46 82.55 0)
+			(at 254 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
