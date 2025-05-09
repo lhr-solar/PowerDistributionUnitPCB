@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.4
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "via_dangling|108750000|6250000|ec175c04-9dbf-4f4d-8658-72d246e8966f|00000000-0000-0000-0000-000000000000",
+          "via on test point to help probing"
+        ]
+      ],
       "meta": {
         "version": 2
       },
