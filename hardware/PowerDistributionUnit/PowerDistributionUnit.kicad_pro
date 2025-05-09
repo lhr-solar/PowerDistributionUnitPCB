@@ -60,6 +60,46 @@
       ],
       "drc_exclusions": [
         [
+          "courtyards_overlap|39250000|32394161|81ca1e43-29c1-4582-968f-3b8e819a043d|f87dcac4-57e5-40cb-b67e-6414962b61cc",
+          "far away enough according to crystal datashset dimensions (using generic footprint)"
+        ],
+        [
+          "courtyards_overlap|42250000|32394161|3d89d5b5-d3f0-4a1b-929f-4045243bc621|81ca1e43-29c1-4582-968f-3b8e819a043d",
+          "far away enough according to crystal datashset dimensions (using generic footprint)"
+        ],
+        [
+          "courtyards_overlap|59750000|32405000|4edcc7f8-6400-4731-b742-5207471827ad|ab85eb7e-b9d3-4653-9a6a-0a7b6aa3a18a",
+          "far away enough according to crystal datashset dimensions (using generic footprint)"
+        ],
+        [
+          "courtyards_overlap|62750000|32405000|4edcc7f8-6400-4731-b742-5207471827ad|9b5b9d9a-530c-4edb-8641-955048297eef",
+          "far away enough according to crystal datashset dimensions (using generic footprint)"
+        ],
+        [
+          "hole_clearance|110281776|303223|b098a1f3-320d-4131-825f-49946396a31b|3fc7416f-80e5-491b-8656-0c66db312466",
+          "nanofit footprint correct - unsure about fab-ability though"
+        ],
+        [
+          "hole_clearance|110675000|2250000|b098a1f3-320d-4131-825f-49946396a31b|4dad70ae-174b-4032-9791-b967226205bb",
+          "nanofit footprint correct - unsure about fab-ability though"
+        ],
+        [
+          "hole_clearance|30803223|468224|d0b7acae-0d7e-4e98-b0a2-ddbbae4dfa7d|27011a73-cb29-498b-8129-3f75b49413fe",
+          "nanofit footprint correct - unsure about fab-ability though"
+        ],
+        [
+          "hole_clearance|32750000|75000|d0b7acae-0d7e-4e98-b0a2-ddbbae4dfa7d|a20e0971-1553-401f-9179-3b3b3933e705",
+          "nanofit footprint correct - unsure about fab-ability though"
+        ],
+        [
+          "hole_clearance|39553223|468224|abc52768-ba01-4f83-822f-129f90d7b909|51d2a55e-cbe0-46e7-9882-5ec19768ff0b",
+          "nanofit footprint correct - unsure about fab-ability though"
+        ],
+        [
+          "hole_clearance|41500000|75000|abc52768-ba01-4f83-822f-129f90d7b909|a4c9caa0-d70e-4d29-8b90-c9e33b29d872",
+          "nanofit footprint correct - unsure about fab-ability though"
+        ],
+        [
           "via_dangling|108750000|6250000|ec175c04-9dbf-4f4d-8658-72d246e8966f|00000000-0000-0000-0000-000000000000",
           "via on test point to help probing"
         ]
