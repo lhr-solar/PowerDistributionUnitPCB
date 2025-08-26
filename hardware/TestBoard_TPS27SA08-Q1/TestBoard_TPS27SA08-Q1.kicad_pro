@@ -642,6 +642,10 @@
     [
       "6f2a8e94-6210-42d9-aebc-1195d7543517",
       "Indicators"
+    ],
+    [
+      "006cfc91-1c97-4812-954e-116b294bf8e5",
+      "GPIO_Expander_LEDs"
     ]
   ],
   "text_variables": {}
