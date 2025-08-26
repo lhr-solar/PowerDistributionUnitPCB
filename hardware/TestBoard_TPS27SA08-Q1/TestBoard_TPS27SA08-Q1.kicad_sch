@@ -2727,7 +2727,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2745,7 +2745,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2763,7 +2763,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2781,7 +2781,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2799,7 +2799,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2817,7 +2817,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2835,7 +2835,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2866,7 +2866,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2884,7 +2884,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2902,7 +2902,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -26963,7 +26963,7 @@
 		(uuid "fda6ef1a-fc6d-45f6-86d5-b3da5e38800e")
 	)
 	(label "SI"
-		(at 234.95 91.44 0)
+		(at 234.95 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -26983,7 +26983,7 @@
 		(uuid "01e1f4e1-60a9-44d9-b788-8aa1adf9ca0c")
 	)
 	(label "SCK"
-		(at 234.95 99.06 0)
+		(at 234.95 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27113,7 +27113,7 @@
 		(uuid "277cdfbf-16bc-4a54-b0cf-cd6f74bc9f85")
 	)
 	(label "LED_D"
-		(at 234.95 109.22 0)
+		(at 234.95 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27313,7 +27313,7 @@
 		(uuid "64c78ee9-0c27-4847-a8b8-43b398324ed0")
 	)
 	(label "SO"
-		(at 234.95 93.98 0)
+		(at 234.95 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27483,7 +27483,7 @@
 		(uuid "9aae86f6-b86d-4690-8d8a-a5bf3a748cc0")
 	)
 	(label "HSS_CS"
-		(at 234.95 96.52 0)
+		(at 234.95 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27523,7 +27523,7 @@
 		(uuid "a45960a7-9b3f-41f7-b0f6-6ad383291aba")
 	)
 	(label "INTA"
-		(at 234.95 104.14 0)
+		(at 234.95 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27683,7 +27683,7 @@
 		(uuid "cf6adc84-b9ce-4320-890e-f5e3324d4c4c")
 	)
 	(label "INTB"
-		(at 234.95 101.6 0)
+		(at 234.95 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27743,7 +27743,7 @@
 		(uuid "e0ee401e-000f-4f3f-b881-d1a739f9f350")
 	)
 	(label "LED_CK"
-		(at 234.95 106.68 0)
+		(at 234.95 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
